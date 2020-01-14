@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lenns cognities</title>
-  <id>http://localhost:4001</id>
-  <link href="http://localhost:4001" />
-  <link href="http://localhost:4001/atom.xml" rel="self" />
-  <updated>2020-01-14T23:31:17+01:00</updated>
+  <title>Lenns Cognities 🧠</title>
+  <id>http://localhost:4002</id>
+  <link href="http://localhost:4002" />
+  <link href="http://localhost:4002/atom.xml" rel="self" />
+  <updated>2020-01-14T23:40:08+01:00</updated>
   <rights>Copyright 2020, Lennart Zegerius</rights>
   <author>
     <name>Lennart Zegerius</name>
@@ -12,7 +12,7 @@
   
     <entry>
       <title>Introductie</title>
-      <link href="http://localhost:4001/2020/01/14/introduction/" />
+      <link href="http://localhost:4002/2020/01/14/introduction/" />
       <summary type="html">&lt;p&gt;&lt;strong&gt;De volle maan&lt;/strong&gt;, tragisch dien avond, was reeds vroeg, nog in den laatsten dagschemer opgerezen als een immense, bloedroze bol, vlamde als een zonsondergang laag achter de tamarindeboomen der Lange Laan en steeg, langzaam zich louterende van hare tragische tint, in een vagen hemel op. Een doodsche stilte spande alom als een sluier van zwijgen, of, na de lange middagsiësta, de avondrust zonder overgang van leven begon.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Over de stad, wier wit gepilaarde villa-huizen laag wegscholen in het geboomte der lanen en tuinen, hing een donzende geluideloosheid, in de windstille benauwdheid der avondlucht, als was de matte avond moê van den zonneblakenden dag der Oostmoesson. De huizen, zonder geluid, doken weg, doodstil, in het loover van hunne tuinen, met de regelmatig opblankende rissen der groote gekalkte bloempotten. Hier en daar werd een licht al ontstoken.&lt;/em&gt;&lt;/p&gt;
@@ -20,7 +20,7 @@
 &lt;p&gt;Plotseling blafte een hond, en antwoordde een andere hond en verscheurde de donsende stilte in lange, ruwe flarden; de nijdige hondekelen, heesch, ademloos, schor vijandig; plotseling ook zwegen zij stil. Aan het einde der Lange Laan lag diep in zijn voortuin het Rezidentie-huis. Laag, dadelijk in den nacht der waringinboomen, zigzagde het zijne pannendaken, het eene achter het andere, naar de schaduw van den achtertuin toe, met een primitieve lijn van dakteekening, over iedere galerij een dak, over iedere kamer een dak, tot éene lange daksilhouet.&lt;/p&gt;
 
 </summary>
-      <id>http://localhost:4001/2020/01/14/introduction/</id>
+      <id>http://localhost:4002/2020/01/14/introduction/</id>
       <updated>2020-01-14T17:57:51+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
@@ -29,7 +29,7 @@
   
     <entry>
       <title>Test</title>
-      <link href="http://localhost:4001/2020/01/13/test/" />
+      <link href="http://localhost:4002/2020/01/13/test/" />
       <summary type="html">&lt;h2 id=&quot;onder-die-steden&quot;&gt;Onder die steden,&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;welke vanouds aan de grafelijke kroon van Holland gelijk zoovele edelgesteenten flonkerden, en wier macht en rijkdom tot een hechten steun verstrekten aan des Landsheer gezag, was Haarlem, gelijk genoeg bekend is, een der voornaamste. Haar ouderdom verloor zich in den nacht der tijden: ’t zij, dat men haar, met Boxhoorn voor de vroege verblijfplaats der Herulen houde en den naam Haarlem, als een verbastering van Herulen-heim aanmerke: ’t zij, dat men dien, met Langendijk, van den Noorman Hariald afleide: ’t zij, dat men met de oude landskronieken veronderstelle, dat zekere Koning of Vorst, Lem genaamd aan de door hem gestichte stad de benaming van Heer Lems stad, naderhand Haarlem hebbe achtergelaten, of met een lateren taalkenner eenvoudig aanneme, dat het woord harel dezelfde beteekenis hebbe als hard, en door harelheim een harde grond te verstaan zijn – genoeg is het, de juist de onzekerheid van dien naamoorsprong de aloudheid der plaats zelve aanduidt.&lt;/strong&gt;&lt;/p&gt;
@@ -55,7 +55,7 @@
 &lt;p&gt;Een aanzienlijk getal dier Edelen had aan deze oproeping voldaan, met dezelfde graagte, waarmede zich thans nieuwsgierigen en lediggangers naar deze of gene stad begeven, waar het een of ander eeuw- of jubelfeest gevierd wordt: ja zelfs zoude ik durven verzekeren, dat de prikkel, die den ader van vroegere tijden naar hunne feestvermaken dreef, nog meerdere kracht bezat. Eensdeels toch was deze soort van spelen de eenige, in dien tijd bekend of in aanzien, terwijl tegenwoordig ieder inwonen eener groote stad dagelijks uitspanningen genoeg kan vinden, en de eeuwfeesten zoo menigvuldig voorkomen, dat zij al het verassende der nieuwheid missen: anderdeels bepaalden zich bij die feesten van vroegere dagen de genoodigden niet altijd bij de rol van stilzittende aanschouwers, maar namen er meermalen een bedrijvige op zich, en keken althans nimmer met een onverschillig oog toe: daar het zelden miste, of er was onder hen, die zich door dapperheid of behendigheid bij die feesten onderscheidden, deze of gene, die met hen vermaagschapt was en wiens bijzondere feiten zij tot eer van hun gansch geslacht konden rekenen en derhalve met innige belangstelling gadesloeg.&lt;/p&gt;
 
 </summary>
-      <id>http://localhost:4001/2020/01/13/test/</id>
+      <id>http://localhost:4002/2020/01/13/test/</id>
       <updated>2020-01-13T22:07:51+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
