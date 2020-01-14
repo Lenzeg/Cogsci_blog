@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>lenn's cognities</title>
+  <title>Lenns cognities</title>
   <id>http://localhost:4001</id>
   <link href="http://localhost:4001" />
   <link href="http://localhost:4001/atom.xml" rel="self" />
-  <updated>2020-01-14T23:23:13+01:00</updated>
+  <updated>2020-01-14T23:31:17+01:00</updated>
   <rights>Copyright 2020, Lennart Zegerius</rights>
   <author>
     <name>Lennart Zegerius</name>
@@ -56,7 +56,7 @@
 
 </summary>
       <id>http://localhost:4001/2020/01/13/test/</id>
-      <updated>2020-01-13T23:07:51+01:00</updated>
+      <updated>2020-01-13T22:07:51+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
       </author>
