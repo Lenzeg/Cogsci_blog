@@ -78,7 +78,9 @@ p {
 }
 
 small { 
-  font-size: 60%; 
+  font-size: 50%;
+  text-transform: lowercase; 
+  font-weight: lighter;
 }
 
 ul li { list-style-type: circle; }
