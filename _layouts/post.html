@@ -27,7 +27,10 @@ layout: default
           <!-- {{ page.date | date_to_long_string }} -->
         </time>
       </h5><br>
-      <h5 class="page-date">
+
+    </div>
+    <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
+    <h5 class="page-date" style="text-align: center ">
         {% assign word_count = content | number_of_words %} 
         {% assign read_time = word_count| divided_by: 180.0 | round %} 
         {% if word_count < 360 %}
@@ -37,8 +40,6 @@ layout: default
           {{ read_time | append: ' minuten ' | append: ' lezen ' | lowercase }}
         {% endif %}
         </h5>
-    </div>
-    <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
     <div itemprop="articleBody">
       {{ content }}
     </div>
@@ -58,8 +59,8 @@ layout: default
       </a>
     {% endif %}
     <!-- LikeBtn.com BEGIN -->
-<span class="likebtn-wrapper" data-theme="bootstrap" data-i18n_like=" " data-ef_voting="push" data-identifier="likebutton" data-voting_frequency="20" data-counter_count="true" data-share_size="small"></span>
-<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- <span class="likebtn-wrapper" data-theme="bootstrap" data-i18n_like=" " data-ef_voting="push" data-identifier="likebutton" data-voting_frequency="20" data-counter_count="true" data-share_size="small"></span> -->
+<!-- <script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script> -->
 <!-- LikeBtn.com END -->
   </article>
 </section>
