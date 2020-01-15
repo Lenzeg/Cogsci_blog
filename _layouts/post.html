@@ -6,10 +6,37 @@ layout: default
   <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
     <div class="feat">
       <h5 class="page-date">
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {{ page.date | date_to_long_string }}
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" lang="nl">
+            {% assign m = page.date | date: "%-m" %}
+            {{ page.date | date: "%-d" }}
+            {% case m %}
+              {% when '1' %}Januari
+              {% when '2' %}Februari
+              {% when '3' %}Maart
+              {% when '4' %}April
+              {% when '5' %}Mei
+              {% when '6' %}Juni
+              {% when '7' %}Juli
+              {% when '8' %}Augustus
+              {% when '9' %}September
+              {% when '10' %}Oktober
+              {% when '11' %}November
+              {% when '12' %}December
+            {% endcase %}
+            {{ page.date | date: "%Y" }}
+          <!-- {{ page.date | date_to_long_string }} -->
         </time>
-      </h5>
+      </h5><br>
+      <h5 class="page-date">
+        {% assign word_count = content | number_of_words %} 
+        {% assign read_time = word_count| divided_by: 180.0 | round %} 
+        {% if word_count < 360 %}
+          1 minuut lezen
+          <!-- {{ '1' | append: ' minuut ' | append: ' lezen ' | lowercase }} -->
+        {% else %}
+          {{ read_time | append: ' minuten ' | append: ' lezen ' | lowercase }}
+        {% endif %}
+        </h5>
     </div>
     <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
     <div itemprop="articleBody">
