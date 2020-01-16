@@ -63,7 +63,7 @@ Tijdens je studie is metacognitie één van de meest efficiënte vaardigheden di
 Waarschijnlijk vind je dit logisch en is er voor jou niet een model nodig om te weten wat voor invloed een smartphone heeft op je studeerkwaliteit. Echter kan je vanuit zo'n model voor jezelf preciezere waarden voor de gewichten bedenken om erachter te komen hoe erg je beïnvloed bent door zaken niet direct te koppelen aan leervaardigheid. 
 **Ik probeer hiermee geen magische formule te veronderstellen.** Het kan, zeker in tijden van stress, een houvast bieden om de processen van een situatie waar je in zit te modelleren. Vaardig zijn met metacognities is daarom een vorm van zelftherapie.
 
-Overzicht is alles, en aandacht hebben voor je aandacht houdt ons beheersd.
+Overzicht is alles, en aandacht hebben voor je aandacht houdt ons beheerst.
 
 Zo, bedankt voor het lezen. Mijn eerste post, haha. Grappig.
 
