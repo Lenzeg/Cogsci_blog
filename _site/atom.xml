@@ -1,62 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lenns Cognities 🧠</title>
-  <id>http://localhost:4002</id>
-  <link href="http://localhost:4002" />
-  <link href="http://localhost:4002/atom.xml" rel="self" />
-  <updated>2020-01-15T15:20:56+01:00</updated>
+  <id>http://localhost:4003</id>
+  <link href="http://localhost:4003" />
+  <link href="http://localhost:4003/atom.xml" rel="self" />
+  <updated>2020-01-16T12:21:49+01:00</updated>
   <rights>Copyright 2020, Lennart Zegerius</rights>
   <author>
     <name>Lennart Zegerius</name>
   </author>
   
     <entry>
-      <title>Introductie</title>
-      <link href="http://localhost:4002/2020/01/14/introduction/" />
-      <summary type="html">&lt;p&gt;&lt;strong&gt;De volle maan&lt;/strong&gt;, tragisch dien avond, was reeds vroeg, nog in den laatsten dagschemer opgerezen als een immense, bloedroze bol, vlamde als een zonsondergang laag achter de tamarindeboomen der Lange Laan en steeg, langzaam zich louterende van hare tragische tint, in een vagen hemel op. Een doodsche stilte spande alom als een sluier van zwijgen, of, na de lange middagsiësta, de avondrust zonder overgang van leven begon.&lt;/p&gt;
+      <title>Over Metacognitie, Mindfulness en Leervaardigheid</title>
+      <link href="http://localhost:4003/2020/01/16/introduction/" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Waar we vroeger naar Tibet keken als het land van rust en geesteszuivering&lt;/strong&gt;, zijn we er relatief kort geleden achter gekomen dat mindfulness wel degelijk een zeer significant therapeutisch effect heeft en zelfs de go-to methode van psychotherapie in Europa en Amerika is geworden &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.
+Mindfulness komt van de term &lt;em&gt;sati&lt;/em&gt;, voor boeddhisten één van de zeven factoren der verlichting. Tegen het einde van de twintigste eeuw werd de term &lt;em&gt;sati&lt;/em&gt; geïnterpreteerd als de spirituele reis naar &lt;em&gt;ongestoorde aandacht&lt;/em&gt; en &lt;em&gt;volledig bewustzijn van het hier en nu&lt;/em&gt; &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Met modernisering komt de vraag naar feitelijke juistheid, en zo werd de taak van wetenschappers om het effect hiervan te onderzoeken geboren. Sindsdien is één van de wetenschappelijke doorbraken het onderzoek dat mindfulness niet alleen (terugkerende) depressie terugdringt, maar ook &lt;em&gt;à ce moment-là&lt;/em&gt; depressieve symptomen kan verlichten, en nog veel meer (zie o.a: &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Over de stad, wier wit gepilaarde villa-huizen laag wegscholen in het geboomte der lanen en tuinen, hing een donzende geluideloosheid, in de windstille benauwdheid der avondlucht, als was de matte avond moê van den zonneblakenden dag der Oostmoesson. De huizen, zonder geluid, doken weg, doodstil, in het loover van hunne tuinen, met de regelmatig opblankende rissen der groote gekalkte bloempotten. Hier en daar werd een licht al ontstoken.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/typora_blogs/metacognitie/monk.jpeg&quot; alt=&quot;monk&quot; height=&quot;36px&quot; width=&quot;36px&quot; /&gt;.&lt;/p&gt;
+&lt;figcaption&gt;1. een boeddhistische monnik&lt;/figcaption&gt;
 
-&lt;p&gt;Plotseling blafte een hond, en antwoordde een andere hond en verscheurde de donsende stilte in lange, ruwe flarden; de nijdige hondekelen, heesch, ademloos, schor vijandig; plotseling ook zwegen zij stil. Aan het einde der Lange Laan lag diep in zijn voortuin het Rezidentie-huis. Laag, dadelijk in den nacht der waringinboomen, zigzagde het zijne pannendaken, het eene achter het andere, naar de schaduw van den achtertuin toe, met een primitieve lijn van dakteekening, over iedere galerij een dak, over iedere kamer een dak, tot éene lange daksilhouet.&lt;/p&gt;
+&lt;p&gt;Toen mindfulness een conventionele term begon te worden deed het me nog aan een fragment van een willekeurig &lt;em&gt;National Geographic&lt;/em&gt; format over boeddhisme denken. Mijn beeld bij mindfulness was vooral een mediterende monnik die misschien wel al een paar weken zit te ontspannen (Afbeelding 1). 
+Alhoewel mindfulness zonder twijfel een zeer kundige en nuttige vaardigheid is, vond ik het voorheen voornamelijk zweverig en een product van pseudowetenschap en religie. Ik geef graag mijn fout daarin toe - maar niet zonder instemmend wetenschappelijk onderzoek. Als vrijdenker ben ik niet makkelijk te binden aan religie of spiritualiteit, maar als iets spiritueels aangetoond invloed uitoefent heeft het nu eenmaal een wetenschappelijke achtergrond en is de oorzaak ervan ergens, ooit te vinden.&lt;/p&gt;
 
-</summary>
-      <id>http://localhost:4002/2020/01/14/introduction/</id>
-      <updated>2020-01-14T17:57:51+01:00</updated>
-      <author>
-        <name>Lennart Zegerius</name>
-      </author>
-    </entry>
-  
-    <entry>
-      <title>Test</title>
-      <link href="http://localhost:4002/2020/01/13/test/" />
-      <summary type="html">&lt;h2 id=&quot;onder-die-steden&quot;&gt;Onder die steden,&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;welke vanouds aan de grafelijke kroon van Holland gelijk zoovele edelgesteenten flonkerden, en wier macht en rijkdom tot een hechten steun verstrekten aan des Landsheer gezag, was Haarlem, gelijk genoeg bekend is, een der voornaamste. Haar ouderdom verloor zich in den nacht der tijden: ’t zij, dat men haar, met Boxhoorn voor de vroege verblijfplaats der Herulen houde en den naam Haarlem, als een verbastering van Herulen-heim aanmerke: ’t zij, dat men dien, met Langendijk, van den Noorman Hariald afleide: ’t zij, dat men met de oude landskronieken veronderstelle, dat zekere Koning of Vorst, Lem genaamd aan de door hem gestichte stad de benaming van Heer Lems stad, naderhand Haarlem hebbe achtergelaten, of met een lateren taalkenner eenvoudig aanneme, dat het woord harel dezelfde beteekenis hebbe als hard, en door harelheim een harde grond te verstaan zijn – genoeg is het, de juist de onzekerheid van dien naamoorsprong de aloudheid der plaats zelve aanduidt.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Aan den over eener rivier gebouwd, waarvan zij zich als van twee armen bedienen kon, om, aan de eene zijde, het Haarlemmermeer en de daarom gelegen landen, aan de andere hij IJ, en door het IJ, de Zuiderzee te bereiken, had zij van deze gunstige ligging reeds vroeg partij getrokken, om een handel te drijven, die, schoon zich zelden verder uitstrekkende dan de gewesten, welke om die binnenzeeën gelegen waren, haar niettemin gelegenheid gaf, om de voortbrengselen van hare door heel Europa beroemde lakenweverijen te slijten en daardoor aan hare ingezetenen welvaart en aanzien te verschaffen: terwijl zij in hare bierbrouwerijen, die de bewoners der omliggende landstreken met den toenmaals zoo algemeenen drank voorzagen, een niet min voordeeligen tak van bestaan gevonden had, vooral, sedert door een grafelijk besluit het verkoopen van vreemd bier binnen Holland verboden en aan Haarlem alzoo een soort van alleenhandel in het graafschap vergund was.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mindfulness moet echter niet verward worden met metacognitie.&lt;/strong&gt; Mindfulness is de analyse van &lt;em&gt;hoe&lt;/em&gt; je denkt, en metacognitie is de analyse van &lt;em&gt;waar&lt;/em&gt; je aan denkt. Naar mijn mening is de schoonheid van metacognities niet de mogelijkheid tot “betere” gedachten (cognities) te komen, maar om pure, ongestoorde objectiviteit te bereiken. Door jezelf en je omgeving als processen te zien, leer je cognities en situaties onbeladen te bekijken. Nou ja, het richtpunt is wel de lading te erkennen, maar idiealiter kies je ervoor om je oordeel uit te stellen. Zodoende kom je op een punt waar precies mindfulness en metacognities elkaar kruisen. Het (niet) veroordelen van je gedachtes versus de analyse ervan brengt een soort superkracht met zich mee. Vanaf het moment dat je je leert terugtrekken om de situatie te analyseren (waarin je jezelf als één van de spelers ziet) leer je rationeel beslissingen maken. Ik zal een voorbeeld geven:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;De bekoorlijke omtrek, die zich niet alleen door een in Holland zoo zeldzame heuvelachtigheid onderscheidde, maar ook aan den adel de heerlijkste gelegenheid aanbood om in een klein bestek de rijkste genoegens van jacht en visscherij te smaken, had in de nabijheid der stad een immer toenemend aantal van aanzienlijke sloten en jachthuizen doen verrijzen, wier adellijke bewoners in een schier ongestoorde eensgezindheid met de poorters levende, het hunne  toebrachten om den bloei der stad te bevorderen. En opdat geen roem aan Haarlem ontbreken zou de Graven zelve kwamen meermalen zijn vest bezoeken, waar zij alsdan door hun prachtige hofhouding, door hun mildheid, door het vieren van ridderlijke feesten, welvaart en genoegen onder de ingezetenen verspreidden.&lt;/p&gt;
+  &lt;p&gt;Je wordt verward wakker. De lichtdichte gordijnen zitten iets té goed dicht. Je hebt geen idee hoe laat het is, dus je pakt je telefoon. Shit, te laat. In een poging tot deëscalatie spring je uit bed, ren je je kleren in en stel je ongewild je ontbijt uit. Eenmaal op de fiets denk je niet zo veel. Je slaapt nog half, checkt af en toe de tijd en prijst jezelf stiekem op de executie van je poging tot oplossing. Een half uurtje te laat maar.
+Op je werk neem je de kwantiteit van je naam op het &lt;em&gt;SCRUM&lt;/em&gt; bord waar; dit wordt een pittige dag.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Het was vooral aan twee der Graven, die den naam van Willem droegen, dat de Sparenstad groot verplichting had. De eerste van die twee, Koning Willem, was binnen haar wal geboren, en beschonk zijn moederstad met ruime voorrechten, terwijl de andere, Willem van Henegouwen, schoon een uitlander, die stad boven andere tot zijn verblijfplaats koos, en aan haar vooral den naam van den Goede verdiende. Het was onder de regeering des zoons van dezen Vorst, dat de voorvallen plaats vonde, in deze bladeren vervat, en waarvan de bijzonderen aan de vergetelheid zijn ontrukt geworden op de wijze, aan de lezer medegedeeld.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/typora_blogs/metacognitie/burnout.png&quot; alt=&quot;burnout&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Het was in het voorjaar 1345, dat een talrijk aantal van naburen en vreemdelingen naar Haarlem was toegestroomd, ter bijwoning van een plechtig feest, hetwelk binnen zijn muren door Graaf Willem den Vierden stond gegeven te worden. Deze Vorst, sedert kort teruggekeerd van een buitenlandschen tocht, waarop hij niet allen het Heilige Land bezocht, maar zich ook met roem beladen had, door op zijn heenreize de Mooren in Spanje, en bij zijn terugreize de ongeloovige Lithauwers op de Pruisische grenzen te bestrijden, had zijn behoudene wederkomst bij zijn onderzaten, op het voetspoor zijns doorluchtigen vaders, met luisterrijke spelen willen vieren, waarop, als naar gewoonte, niet slechts de adel zijner graafschappen, maar ook die des Duitschen rijks bij rondgaande brieven en openlijke bekendmaking was genoodigd.&lt;/p&gt;
+&lt;p&gt;Incidenteel kom je zo’n dag wel door. Zeker als het leven gemiddeld op rolletjes loopt is het waarschijnlijk gemakkelijk te verduren. 
+Stel je nu voor dat je leven eigenlijk niet echt op rolletjes loopt. Dit &lt;em&gt;event&lt;/em&gt; is, helaas, precies de druppel die ervoor nodig was om burnout klachten te ontwikkelen. Je hebt het gevoel dat je je graag wilt terugtrekken.&lt;/p&gt;
 
-&lt;p&gt;Een aanzienlijk getal dier Edelen had aan deze oproeping voldaan, met dezelfde graagte, waarmede zich thans nieuwsgierigen en lediggangers naar deze of gene stad begeven, waar het een of ander eeuw- of jubelfeest gevierd wordt: ja zelfs zoude ik durven verzekeren, dat de prikkel, die den ader van vroegere tijden naar hunne feestvermaken dreef, nog meerdere kracht bezat. Eensdeels toch was deze soort van spelen de eenige, in dien tijd bekend of in aanzien, terwijl tegenwoordig ieder inwonen eener groote stad dagelijks uitspanningen genoeg kan vinden, en de eeuwfeesten zoo menigvuldig voorkomen, dat zij al het verassende der nieuwheid missen: anderdeels bepaalden zich bij die feesten van vroegere dagen de genoodigden niet altijd bij de rol van stilzittende aanschouwers, maar namen er meermalen een bedrijvige op zich, en keken althans nimmer met een onverschillig oog toe: daar het zelden miste, of er was onder hen, die zich door dapperheid of behendigheid bij die feesten onderscheidden, deze of gene, die met hen vermaagschapt was en wiens bijzondere feiten zij tot eer van hun gansch geslacht konden rekenen en derhalve met innige belangstelling gadesloeg.&lt;/p&gt;
+&lt;p&gt;Metacognities (überhaupt cognitieve gedragstherapie) kunnen verdere impact voorkomen en de ruwe randjes eraf houden. Jezelf “vanaf een wolk” bekijken heeft in eerste instantie het effect van de ervaring &lt;strong&gt;zien maar niet beleven&lt;/strong&gt;. Je ziet jezelf, je situatie en de tegenwind of de sterke stroming die je meesleurt. Maar op de wolk is het windstil.&lt;/p&gt;
 
-&lt;p&gt;Een aanzienlijk getal dier Edelen had aan deze oproeping voldaan, met dezelfde graagte, waarmede zich thans nieuwsgierigen en lediggangers naar deze of gene stad begeven, waar het een of ander eeuw- of jubelfeest gevierd wordt: ja zelfs zoude ik durven verzekeren, dat de prikkel, die den ader van vroegere tijden naar hunne feestvermaken dreef, nog meerdere kracht bezat. Eensdeels toch was deze soort van spelen de eenige, in dien tijd bekend of in aanzien, terwijl tegenwoordig ieder inwonen eener groote stad dagelijks uitspanningen genoeg kan vinden, en de eeuwfeesten zoo menigvuldig voorkomen, dat zij al het verassende der nieuwheid missen: anderdeels bepaalden zich bij die feesten van vroegere dagen de genoodigden niet altijd bij de rol van stilzittende aanschouwers, maar namen er meermalen een bedrijvige op zich, en keken althans nimmer met een onverschillig oog toe: daar het zelden miste, of er was onder hen, die zich door dapperheid of behendigheid bij die feesten onderscheidden, deze of gene, die met hen vermaagschapt was en wiens bijzondere feiten zij tot eer van hun gansch geslacht konden rekenen en derhalve met innige belangstelling gadesloeg.&lt;/p&gt;
+&lt;p&gt;Het kan ook fijn zijn om plannen te maken vanuit metacognities. Het is zeker geen methode om problemen uit de weg te gaan en de emoties te ontlopen. Preventieve zelfzorg, eerder. Jezelf zien in relatie tot een situatie kan niet alleen nieuwe inzichten bieden maar ook oplossingen laten bedenken minder geleid door impulsiviteit en emotionaliteit. 
+Dr. Hakan Sariçam verwoord het hieronder mooi:&lt;/p&gt;
 
-&lt;p&gt;Aan den over eener rivier gebouwd, waarvan zij zich als van twee armen bedienen kon, om, aan de eene zijde, het Haarlemmermeer en de daarom gelegen landen, aan de andere hij IJ, en door het IJ, de Zuiderzee te bereiken, had zij van deze gunstige ligging reeds vroeg partij getrokken, om een handel te drijven, die, schoon zich zelden verder uitstrekkende dan de gewesten, welke om die binnenzeeën gelegen waren, haar niettemin gelegenheid gaf, om de voortbrengselen van hare door heel Europa beroemde lakenweverijen te slijten en daardoor aan hare ingezetenen welvaart en aanzien te verschaffen: terwijl zij in hare bierbrouwerijen, die de bewoners der omliggende landstreken met den toenmaals zoo algemeenen drank voorzagen, een niet min voordeeligen tak van bestaan gevonden had, vooral, sedert door een grafelijk besluit het verkoopen van vreemd bier binnen Holland verboden en aan Haarlem alzoo een soort van alleenhandel in het graafschap vergund was.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“When people do not
+feel mastery and confidence about their competence, they evaluate a difficulty as a threat
+or a challenge. If they believe that they can
+affect what happens during a difficult situation and manage the relationship between
+themselves and this situation, they can develop coping strategies easily. Thence, they
+do not interpret the situation as stressful.” &lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Het was vooral aan twee der Graven, die den naam van Willem droegen, dat de Sparenstad groot verplichting had. De eerste van die twee, Koning Willem, was binnen haar wal geboren, en beschonk zijn moederstad met ruime voorrechten, terwijl de andere, Willem van Henegouwen, schoon een uitlander, die stad boven andere tot zijn verblijfplaats koos, en aan haar vooral den naam van den Goede verdiende. Het was onder de regeering des zoons van dezen Vorst, dat de voorvallen plaats vonde, in deze bladeren vervat, en waarvan de bijzonderen aan de vergetelheid zijn ontrukt geworden op de wijze, aan de lezer medegedeeld.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h5 id=&quot;niet-de-studie-van-metacognitie-maar-de-metacognitie-van-je-studie&quot;&gt;Niet de studie van metacognitie, maar de metacognitie van je studie&lt;/h5&gt;
 
-&lt;p&gt;Een aanzienlijk getal dier Edelen had aan deze oproeping voldaan, met dezelfde graagte, waarmede zich thans nieuwsgierigen en lediggangers naar deze of gene stad begeven, waar het een of ander eeuw- of jubelfeest gevierd wordt: ja zelfs zoude ik durven verzekeren, dat de prikkel, die den ader van vroegere tijden naar hunne feestvermaken dreef, nog meerdere kracht bezat. Eensdeels toch was deze soort van spelen de eenige, in dien tijd bekend of in aanzien, terwijl tegenwoordig ieder inwonen eener groote stad dagelijks uitspanningen genoeg kan vinden, en de eeuwfeesten zoo menigvuldig voorkomen, dat zij al het verassende der nieuwheid missen: anderdeels bepaalden zich bij die feesten van vroegere dagen de genoodigden niet altijd bij de rol van stilzittende aanschouwers, maar namen er meermalen een bedrijvige op zich, en keken althans nimmer met een onverschillig oog toe: daar het zelden miste, of er was onder hen, die zich door dapperheid of behendigheid bij die feesten onderscheidden, deze of gene, die met hen vermaagschapt was en wiens bijzondere feiten zij tot eer van hun gansch geslacht konden rekenen en derhalve met innige belangstelling gadesloeg.&lt;/p&gt;
+&lt;p&gt;Tijdens je studie is metacognitie één van de meest efficiënte vaardigheden die je kunt bezitten. Het is een kwestie die vaker aangehaald is: “Kinderen leren niet hoe ze moeten leren”. Uit onderzoek blijkt dat vroege versterkte (d.m.v. gerichte training) metacognitieve ontwikkeling een significante voorsprong biedt in vergelijking met andere leermethoden &lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
+&lt;p&gt;Één van de valkuilen is wanneer kinderen de “bewezen” en “beste” methoden aangeleerd krijgen: “Met de pomodoro-techniek, plus wat kauwgom, móet je voor school alles doornemen wat er behandeld gaat worden.” gevolgd door een “Hoezo heb je het vak niet gehaald?”.  Vervolgens leert het kind hulpeloos te zijn; de beste methoden werken namelijk niet, dus voelt het kind zich stom en misschien niet geschikt voor dit niveau. Door middel van een simpel mindmap/causaal model met zelfgekozen waarden voor de kracht/invloed tussen de punten kun je een verhelderd cognitief beeld verkrijgen. Je zou bijvoorbeeld een model kunnen maken van hoe problemen in een persoon zijn/haar vriendengroep uiteindelijk invloed kan hebben op de nabijheid van een smartphone en het resultaat ervan op zijn/haar studeerkwaliteit. Hieronder een (simpel) model.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/typora_blogs/metacognitie/model.png&quot; alt=&quot;model&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;s2: onzekerheid binnen vriendengroep state&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;s3: geen onzekerheid binnen vriendengroep state&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;x1: afstand smartphone&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;x2: waarde van cognitief verzet&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;y1: studeer-kwaliteit&lt;/code&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Waarschijnlijk vind je dit logisch en is er voor jou niet een model nodig om te weten wat voor invloed een smartphone heeft op je studeerkwaliteit. Echter kan je vanuit zo’n model voor jezelf preciezere waarden voor de gewichten bedenken om erachter te komen hoe erg je beïnvloed bent door zaken niet direct te koppelen aan leervaardigheid. 
+&lt;strong&gt;Ik probeer hiermee geen magische formule te veronderstellen.&lt;/strong&gt; Het kan, zeker in tijden van stress, een houvast bieden om de processen van een situatie waar je in zit te modelleren. Vaardig zijn met metacognities is daarom een vorm van zelftherapie.&lt;/p&gt;
+
+&lt;p&gt;Overzicht is alles, en aandacht hebben voor je aandacht houdt ons beheersd.&lt;/p&gt;
+
+&lt;p&gt;Zo, bedankt voor het lezen. Mijn eerste post, haha. Grappig.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Referenties&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Zou, T., Wu, C., &amp;amp; Fan, X. (2016). The Clinical Value, Principle, and Basic Practical Technique of Mindfulness Intervention. Shanghai archives of psychiatry, 28(3), 121–130. doi:10.11919/j.issn.1002-0829.216060 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Sharf, Robert (2014), “Mindfulness and Mindlessness in Early Chan” (PDF), Philosophy East and West, &lt;em&gt;64&lt;/em&gt; (4): 933–964, p. 942 doi:10.1353/pew.2014.0074 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Creswell, D (2016), “Mindfulness Interventions”, Annual Review of Psychology Vol. 68:491-516, https://doi.org/10.1146/annurev-psych-042716-051139 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Sarıçam, H. (2015). Metacognition and happiness: The mediating role of perceived stress. Studia Psychologica, 57(4), Page 273. 271–284. https://doi.org/10.21909/sp.2015.03.699. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;Kramarski, B. and Mevarech, Z. R. (2003) ‘Enhancing Mathematical Reasoning in the Classroom: The Effects of Cooperative Learning and Metacognitive Training’, American Educational Research Journal, 40(1), pp. 281–310. doi: 10.3102/00028312040001281. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 </summary>
-      <id>http://localhost:4002/2020/01/13/test/</id>
-      <updated>2020-01-13T22:07:51+01:00</updated>
+      <id>http://localhost:4003/2020/01/16/introduction/</id>
+      <updated>2020-01-16T12:11:51+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
       </author>

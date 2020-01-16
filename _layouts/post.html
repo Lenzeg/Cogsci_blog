@@ -30,9 +30,10 @@ layout: default
 
     </div>
     <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
-    <h5 class="page-date" style="text-align: center ">
+    <div class="read-time">
+    <h5 style="text-align: center ">
         {% assign word_count = content | number_of_words %} 
-        {% assign read_time = word_count| divided_by: 180.0 | round %} 
+        {% assign read_time = word_count| divided_by: 160.0 | round %} 
         {% if word_count < 360 %}
           1 minuut lezen
           <!-- {{ '1' | append: ' minuut ' | append: ' lezen ' | lowercase }} -->
@@ -40,6 +41,7 @@ layout: default
           {{ read_time | append: ' minuten ' | append: ' lezen ' | lowercase }}
         {% endif %}
         </h5>
+      </div>
     <div itemprop="articleBody">
       {{ content }}
     </div>

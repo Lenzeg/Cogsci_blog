@@ -29,6 +29,8 @@ linkedin: lennart-zegerius
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
 markdown: kramdown
+kramdown:
+  extensions: [footnotes]
 permalink: pretty
 plugins:
   - jekyll-paginate

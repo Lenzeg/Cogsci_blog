@@ -5,8 +5,8 @@ $main-color:        rgb(250, 250, 250);  // change this color for further custom
 
 $bg-color:          white; // background-color
 
-$text-color:        #333; 
-$link-color:        rgb(105,105,105); 
+$text-color:        rgb(37, 37, 37); 
+$link-color:        rgb(43, 43, 43); 
 $border-color:      #e0e1e6;
 $smoke-color:       #fafafa;
 
@@ -14,16 +14,16 @@ $smoke-color:       #fafafa;
 // Typography 
 
 $font-family:       'Open Sans', sans-serif;
-$variant-family:    'Lora', Georgia, serif;
-$font-size-l:       1.25em; // font-size on desktop type screens
+$variant-family:    'Open Sans', sans-serif;
+$font-size-l:       1.1em; // font-size on desktop type screens
 $font-size-m:       $font-size-l * 0.9; // font-size under 942px wide screens
-$font-size-s:       $font-size-l * 0.7; // font-size under 642px wide screens
+$font-size-s:       $font-size-l * 0.8; // font-size under 642px wide screens
 
 
 // Spacings
 
 $spacing-xs:        .5em;
-$spacing-s:         $spacing-xs * 2;
+$spacing-s:         $spacing-xs * 3;
 $spacing-sm:        $spacing-s + $spacing-xs;
 $spacing-m:         $spacing-sm + $spacing-xs;
 $spacing-ml:        $spacing-m + $spacing-xs;
