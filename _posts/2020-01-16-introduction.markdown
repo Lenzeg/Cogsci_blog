@@ -23,7 +23,7 @@ Toen mindfulness een conventionele term begon te worden deed het me nog aan een 
 Alhoewel mindfulness zonder twijfel een zeer kundige en nuttige vaardigheid is, vond ik het voorheen voornamelijk zweverig en een product van pseudowetenschap en religie. Ik geef graag mijn fout daarin toe - maar niet zonder instemmend wetenschappelijk onderzoek. Als vrijdenker ben ik niet makkelijk te binden aan religie of spiritualiteit, maar als iets spiritueels aangetoond invloed uitoefent heeft het nu eenmaal een wetenschappelijke achtergrond en is de oorzaak ervan ergens, ooit te vinden.
 
 
-**Mindfulness moet echter niet verward worden met metacognitie.** Mindfulness is de analyse van *hoe* je denkt, en metacognitie is de analyse van *waar* je aan denkt. Naar mijn mening is de schoonheid van metacognities niet de mogelijkheid tot "betere" gedachten (cognities) te komen, maar om pure, ongestoorde objectiviteit te bereiken. Door jezelf en je omgeving als processen te zien, leer je cognities en situaties onbeladen te bekijken. Nou ja, het richtpunt is wel de lading te erkennen, maar idiealiter kies je ervoor om je oordeel uit te stellen. Zodoende kom je op een punt waar precies mindfulness en metacognities elkaar kruisen. Het (niet) veroordelen van je gedachtes versus de analyse ervan brengt een soort superkracht met zich mee. Vanaf het moment dat je je leert terugtrekken om de situatie te analyseren (waarin je jezelf als één van de spelers ziet) leer je rationeel beslissingen maken. Ik zal een voorbeeld geven:
+**Mindfulness moet echter niet verward worden met metacognitie.** Mindfulness is de analyse van *hoe* je denkt, en metacognitie is de analyse van *waar* je aan denkt. Naar mijn mening is de schoonheid van metacognities niet de mogelijkheid tot "betere" gedachten (cognities) te komen, maar om pure, ongestoorde objectiviteit te bereiken. Door jezelf en je omgeving als processen te zien, leer je cognities en situaties onbeladen te bekijken. Nou ja, het richtpunt is wel de lading te erkennen, maar idealiter kies je ervoor om je oordeel uit te stellen. Zodoende kom je op een punt waar precies mindfulness en metacognities elkaar kruisen. Het (niet) veroordelen van je gedachtes versus de analyse ervan brengt een soort superkracht met zich mee. Vanaf het moment dat je je leert terugtrekken om de situatie te analyseren (waarin je jezelf als één van de spelers ziet) leer je rationeel beslissingen maken. Ik zal een voorbeeld geven:
 
 >Je wordt verward wakker. De lichtdichte gordijnen zitten iets té goed dicht. Je hebt geen idee hoe laat het is, dus je pakt je telefoon. Shit, te laat. In een poging tot deëscalatie spring je uit bed, ren je je kleren in en stel je ongewild je ontbijt uit. Eenmaal op de fiets denk je niet zo veel. Je slaapt nog half, checkt af en toe de tijd en prijst jezelf stiekem op de executie van je poging tot oplossing. Een half uurtje te laat maar.
 Op je werk neem je de kwantiteit van je naam op het *SCRUM* bord waar; dit wordt een pittige dag.
@@ -65,7 +65,6 @@ Waarschijnlijk vind je dit logisch en is er voor jou niet een model nodig om te 
 
 Overzicht is alles, en aandacht hebben voor je aandacht houdt ons beheerst.
 
-Zo, bedankt voor het lezen. Mijn eerste post, haha. Grappig.
 
 <br>
 <br>
