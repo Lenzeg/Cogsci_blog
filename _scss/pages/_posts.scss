@@ -6,9 +6,10 @@
   max-width: 900px;
   margin: $spacing-s auto;
   font-family: $variant-family;
+  line-height: 1.5em;
   background: white;
   z-index: 1;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.6px;
 
   .single-content {
     padding: 0 $spacing-m;
