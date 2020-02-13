@@ -29,7 +29,7 @@ Laat ik het bij een voorbeeld houden waar iedereen ervaring mee heeft: **het geh
 Het trainen van PEM doe je door relevante ervaring op te bouwen. De relevantie van deze ervaring vereist geen exacte herhaling - zo is het leven niet, en dat weten we allemaal.<br> 
 Iedere voetbalwedstrijd, presentatie, en werkdag is anders. Maar toch wordt je comfortabel. Het comfort zou kunnen liggen in de reducering van de stressor die PEM is. Het is nu eenmaal eng iets te doen wat je nooit eerder hebt gedaan. Je bent nog niet vaardig in het minimaliseren van de kans op dat het fout gaat.
 
- In een interessant artikel van Lukas Schwengerer over zelf-kennis benaderd vanuit het PP *framework* wordt een model voorgesteld waarin de predictions over onszelf ons zelfkennis bieden [^5].  Schwengerer stelt dat er twee paralle informatiestromen lopen, namelijk voorspellingen over de wereld en voorspellingen over iemands acties als reactie, in meerdere lagen. Als je dit interessant vindt adviseer ik het artikel te lezen (zie referenties). Hou in gedachten dat Schwengerer concludeerd dat zijn model incompleet is.
+ In een interessant artikel van Lukas Schwengerer over zelf-kennis benaderd vanuit het PP *framework* wordt een model voorgesteld waarin de predictions over onszelf ons zelfkennis bieden [^5].  Schwengerer stelt dat er twee parallelle informatiestromen lopen, namelijk voorspellingen over de wereld en voorspellingen over iemands acties als reactie, in meerdere lagen. Als je dit interessant vindt adviseer ik het artikel te lezen (zie referenties). Hou in gedachten dat Schwengerer concludeerd dat zijn model incompleet is.
  
 
  ![predictive-processing](/typora_blogs/pp/predictive-processing.jpg)
