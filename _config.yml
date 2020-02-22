@@ -2,7 +2,7 @@
 name: "Lenns Cognities 🧠"
 
 # Description of your content (will only be used on Google Search)
-description: "Een blog over neuro/cognitieve wetenschap en neuropsychologie. Voornamelijk de toepasbaarheid ervan in het leven."
+description: "Een blog over cognitieve (neuro)wetenschap en neuropsychologie."
 
 # Your name. Will show in your footer + sidebar
 author: "Lennart Zegerius"
@@ -11,7 +11,7 @@ url: "http://www.lenn.dev"
 baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "Een Computer Science (bachelor) en binnekort Klinische Neuropsychologie (master) student met een diepgewortelde passie voor neurologie en psychologie." 
+author-bio: "Een Computer Science (bachelor) en binnekort Cognitive Neuropsychologie (research master) student met een diepgewortelde passie voor neurologie en psychologie." 
 
 # Social Accounts (mine, as placeholders)
 
