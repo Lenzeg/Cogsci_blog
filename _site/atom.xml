@@ -1,18 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lenns Cognities 🧠</title>
-  <id>http://localhost:4001</id>
-  <link href="http://localhost:4001" />
-  <link href="http://localhost:4001/atom.xml" rel="self" />
-  <updated>2020-02-13T01:08:56+01:00</updated>
+  <id>http://localhost:4000</id>
+  <link href="http://localhost:4000" />
+  <link href="http://localhost:4000/atom.xml" rel="self" />
+  <updated>2020-02-19T14:08:50+01:00</updated>
   <rights>Copyright 2020, Lennart Zegerius</rights>
   <author>
     <name>Lennart Zegerius</name>
   </author>
   
     <entry>
+      <title>Lezen voor mensen zonder concentratie: hoe?</title>
+      <link href="http://localhost:4000/2020/02/18/lezen/" />
+      <summary type="html">&lt;p&gt;Het gemak van lezen lijkt ons niet allemaal gegund. Zo ken je vast wel iemand die iedere week een boek uitleest. Je vraagt je af waar iemand de tijd vandaan haalt. Je zegt tegen jezelf dat je dit ook wil doen en bestelt een boek op bol.com die bij binnenkomst als decoratiestuk zal mogen gelden.&lt;/p&gt;
+
+&lt;p&gt;Leren lezen gaat gepaard met een mooie eigenschap van de mens door allen gekend als &lt;strong&gt;zelfverzekerdheid&lt;/strong&gt;. In de poging dit pedagogisch te analyseren ga ik ervanuit dat een kind leert lezen en problemen oplossen rond dezelfde leeftijd. Er speelt een rol van de omgeving in de ontwikkeling van zelfvertrouwen en zelfeffectiviteit bij kinderen met als variabel de vaardigheid om problemen op te lossen. De manier hoe je zelfvertrouwen ontwikkelt heeft directe invloed op je leesvaardigheid en, niet onbelangrijk, het &lt;em&gt;comfort&lt;/em&gt; wat je hebt tijdens het lezen. Waarom kost lezen je zoveel energie? Waarom vallen je ogen dicht na een aantal pagina’s? Waarom lees je zo langzaam? Waarom vind ik lezen zo saai? Ik zal in deze post je proberen uit te leggen waar dit vandaan komt.&lt;/p&gt;
+
+&lt;p&gt;We hebben ons allemaal wel eens zelfverzekerd gevoeld. Denk aan die keer dat iemand iets betwijfelde waar jij zeker over was. Of die keer dat je een tentamen zo goed geleerd had dat je met borst naar voren en kin omhoog de tentamenzaal binnenliep. Jij wist zeker, dit kan niet mis gaan. 
+Ditzelfde soort zelfverzekerdheid komt, wellicht in mindere mate, ook voor bij goede lezers. Het lijkt mij zeer waarschijnlijk dat dit ontstaat door de bevestiging van intelligentie afkomend van de omgeving van het kind. Wanneer je vaardigheid om problemen op te lossen niet zo snel in twijfel wordt gebracht ervaar je minder cognitieve belasting op het gehele proces dat problemen oplossen omringt. Alhoewel ik hier geen bron voor heb concludeer ik dit zelf uit het onderzoek wat is gedaan naar &lt;strong&gt;snellezen&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Snellezen is een vaardigheid die onder meer de volgende gewoontes aanpakt:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Regressie&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Subvocalisatie&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Uitstel van begrip&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In een volgend moment zal ik deze leesgewoontes uitleggen, maar alvorens wil ik zeggen dat precies deze gewoontes die aangepakt worden verergeren met een tekort aan zelfverzekerdheid en comfort tijdens het lezen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;center&gt;Regressie&lt;/center&gt;&lt;/strong&gt;
+&lt;em&gt;&lt;center style=&quot;font-size: 0.7em&quot;&gt;re·gres·sie (de; v; meervoud: regressies):
+het teruggaan tot een vroeger stadium.&lt;/center&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;center&gt;Subvocalisatie&lt;/center&gt;&lt;/strong&gt;
+&lt;em&gt;&lt;center style=&quot;font-size: 0.7em&quot;&gt;Abstract: in gedachten uitspreken wat je leest.&lt;/center&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;center&gt;Uitstel van begrip&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;video_container&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/watch?v=ZwEquW_Yij0/&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;Tim Ferriss &lt;/iframe&gt;
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tim Ferris over Snellezen&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Role of the environment in learning to solve problems&lt;/li&gt;
+&lt;/ul&gt;
+
+</summary>
+      <id>http://localhost:4000/2020/02/18/lezen/</id>
+      <updated>2020-02-18T12:11:51+01:00</updated>
+      <author>
+        <name>Lennart Zegerius</name>
+      </author>
+    </entry>
+  
+    <entry>
       <title>Waar Predictive Processing onverwachts The Law of Attraction ontmoet</title>
-      <link href="http://localhost:4001/2020/02/12/pp-law/" />
+      <link href="http://localhost:4000/2020/02/12/pp-law/" />
       <summary type="html">&lt;p&gt;&lt;em&gt;&lt;center&gt;&quot;We can never know &quot;the thing in itself&quot; that is, the actual causes in the world of the effects we experience&quot; -Immanuel Kant (1781)&lt;/center&gt;&lt;/em&gt;
 &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
@@ -30,7 +78,7 @@
 Het trainen van PEM doe je door relevante ervaring op te bouwen. De relevantie van deze ervaring vereist geen exacte herhaling - zo is het leven niet, en dat weten we allemaal.&lt;br /&gt; 
 Iedere voetbalwedstrijd, presentatie, en werkdag is anders. Maar toch wordt je comfortabel. Het comfort zou kunnen liggen in de reducering van de stressor die PEM is. Het is nu eenmaal eng iets te doen wat je nooit eerder hebt gedaan. Je bent nog niet vaardig in het minimaliseren van de kans op dat het fout gaat.&lt;/p&gt;
 
-&lt;p&gt;In een interessant artikel van Lukas Schwengerer over zelf-kennis benaderd vanuit het PP &lt;em&gt;framework&lt;/em&gt; wordt een model voorgesteld waarin de predictions over onszelf ons zelfkennis bieden &lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;.  Schwengerer stelt dat er twee paralle informatiestromen lopen, namelijk voorspellingen over de wereld en voorspellingen over iemands acties als reactie, in meerdere lagen. Als je dit interessant vindt adviseer ik het artikel te lezen (zie referenties). Hou in gedachten dat Schwengerer concludeerd dat zijn model incompleet is.&lt;/p&gt;
+&lt;p&gt;In een interessant artikel van Lukas Schwengerer over zelf-kennis benaderd vanuit het PP &lt;em&gt;framework&lt;/em&gt; wordt een model voorgesteld waarin de voorspellingen over onszelf ons zelfkennis bieden &lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;.  Schwengerer stelt dat er twee parallelle informatiestromen lopen, namelijk voorspellingen over de wereld en voorspellingen over iemands acties als reactie, in meerdere lagen. Als je dit interessant vindt adviseer ik het artikel te lezen (zie referenties). Hou in gedachten dat Schwengerer concludeert dat zijn model incompleet is.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/typora_blogs/pp/predictive-processing.jpg&quot; alt=&quot;predictive-processing&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;&lt;small&gt;1. Een voorbeeld van predictive processing&lt;/small&gt;&lt;/figcaption&gt;
@@ -42,17 +90,16 @@ Iedere voetbalwedstrijd, presentatie, en werkdag is anders. Maar toch wordt je c
 &lt;p&gt;&lt;strong&gt;&lt;center&gt;The Law of Attraction &lt;/center&gt;&lt;/strong&gt;
 &lt;em&gt;&lt;center&gt; You get what you wish for. &lt;/center&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Ik zal gelijk toegeven dat ik het boek The Secret&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; niet gelezen heb. Ik heb gelezen over het concept &lt;em&gt;The Law of Attraction&lt;/em&gt; en gefantaseerd hoe dit neurologisch verklaard zou kunnen worden. Let op: deze “Law” kent geen wetenschappelijke basis, en is dan ook een filosofie van de &lt;em&gt;New Thought&lt;/em&gt; beweging&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. Het is in essentie een verzinsel net als &lt;em&gt;karma&lt;/em&gt;. Ik gebruik deze term alleen maar om jullie aandacht te behouden :). Om meer te weten te komen over &lt;em&gt;The Law of Attraction&lt;/em&gt; adviseer ik een YouTube filmpje erover te kijken, bijvoorbeeld &lt;a href=&quot;https://www.youtube.com/watch?v=b295OBuDmyM&quot;&gt;deze&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ik zal gelijk toegeven dat ik het boek The Secret&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; niet gelezen heb. Ik heb gelezen over het concept &lt;em&gt;The Law of Attraction&lt;/em&gt; en gefantaseerd hoe dit neurologisch verklaard zou kunnen worden. Let op: deze “Law” kent geen wetenschappelijke basis, en is dan ook een filosofie van de &lt;em&gt;New Thought&lt;/em&gt; beweging&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. Het is in essentie een verzinsel net als &lt;em&gt;karma&lt;/em&gt;. Ik gebruik deze term alleen maar om jullie een beetje enthousiast te maken :). Om meer te weten te komen over &lt;em&gt;The Law of Attraction&lt;/em&gt; adviseer ik een YouTube filmpje erover te kijken, bijvoorbeeld &lt;a href=&quot;https://www.youtube.com/watch?v=b295OBuDmyM&quot;&gt;deze&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Het heeft me wel aan het denken gezet. Deze pseudowetenschappelijke theorie bevat concepten die vaker onderzocht zijn. Zo is de insteek waar ik geïnteresseerd in ben &lt;strong&gt;visualisatie&lt;/strong&gt;.&lt;br /&gt; Waar ik net schreef over het opdoen van &lt;strong&gt;relevante ervaring&lt;/strong&gt; en de &lt;strong&gt;minimalisatie van fouten&lt;/strong&gt; is voor mij &lt;em&gt;The Law of Attraction&lt;/em&gt; een omschrijving van wat er gebeurt als je heel veel relevante ervaring opdoet zonder dat je het ervaart door te visualiseren. Het afgaan van scenario’s, ofwel het visualiseren van deze momenten, is namelijk een manier om relevante ervaring op te doen. Het talloos opnieuw afspelen van mentale speelfilms met als hoofdrol jij die je doelen bereikt kan alleen maar goed doen. Los van dat het helpt met je motivatie behouden en discipline opbrengen zorg je ook dat het &lt;em&gt;externe&lt;/em&gt; minder invloed heeft op het &lt;em&gt;interne&lt;/em&gt;. Misschien een beetje abstract, maar vul zelf de betekenis in.&lt;/p&gt;
 
-&lt;p&gt;Wederom is &lt;em&gt;The Law of Attraction&lt;/em&gt; terug te koppelen op de wetenschap achter geheugenverwerking.&lt;br /&gt; Waarom leer je iets beter als je je aandacht erbij houdt? Als je iets écht leuk vindt? Waarom onthoudt je beter wanneer je over de materie praat met mede-geïnteresseerden dan met iemand die het niet interessant vindt?
-Ik geloof dat ook dit gereduceerd kan worden tot visualisatie. De positieve ervaring die iets leuks onthouden met zich meebrengt komt, en maar goed ook, terug op het feit dat hetgeen wat je leert je je dichter bij je doelen zult brengen en beter zal voorbereiden voor toekomstige situaties. &lt;br /&gt;Wanneer je bijvoorbeeld iets presenteert voor een groep geleerden moet je zeker zijn dat je het juiste vertelt, in tegenstelling tot een groep onwetenden. Het visualiseren van jezelf in de positie van een geleerde binnen je vakgebied is een handige manier om je voor te bereiden. In een volgend blogpost zal ik beschrijven hoe verschillende studiemethodes ook je relevante ervaring trainen, of abstracter gezegd: &lt;em&gt;te weten komen wat je kan verwachten&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Wederom is &lt;em&gt;The Law of Attraction&lt;/em&gt; terug te koppelen op de wetenschap achter geheugenverwerking. Waarom leer je iets beter als je je aandacht erbij houdt? Als je iets écht leuk vindt? Waarom onthoud je beter wanneer je over de materie praat met mede-geïnteresseerden dan met iemand die het niet interessant vindt? &lt;br /&gt; Dit kan gereduceerd worden tot visualisatie. De positieve ervaring die iets leuks onthouden met zich meebrengt komt, en maar goed ook, terug op het feit dat hetgeen wat je leert je je dichter bij je doelen zult brengen en beter zal voorbereiden voor toekomstige situaties. &lt;br /&gt;Wanneer je bijvoorbeeld iets presenteert voor een groep geleerden moet je zeker zijn dat je het juiste vertelt, in tegenstelling tot een groep onwetenden. Het visualiseren van jezelf in de positie van een geleerde binnen je vakgebied is een handige manier om je voor te bereiden. In een volgend blogpost zal ik beschrijven hoe verschillende studiemethodes ook je relevante ervaring trainen, of abstracter gezegd: &lt;em&gt;te weten komen wat je kan verwachten&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;strong&gt;&lt;center&gt; De ontmoeting en tevens conlusie &lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Zoals hopelijk al duidelijk vinden de twee besproken onderwerpen elkaar op een aantal punten. Het is niet binair te stellen, maar mocht je predictive processing als neurologisch beschouwen is visualisatie een link die zowel de pseudo-kant van dit onderwerp als de neurologische kant (naar mijn mening) deels onderbouwt. Maak jezelf bekend op onbekend terrein, en accepteer dat er een serieuze kans bestaat dat je met alleen de cognitieve analyse van scenario’s je jezelf voorbereid.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Zoals hopelijk al duidelijk vinden de twee besproken onderwerpen elkaar op een aantal punten. Het is niet binair te stellen, maar de neurologische insteek van predictive processing ziet visualisatie als een link die zowel de pseudo-wetenschappelijke kant van dit onderwerp als de neurologische kant onderbouwt. Maak jezelf bekend op onbekend terrein, en accepteer dat er een serieuze kans bestaat dat je met alleen de cognitieve analyse van scenario’s je jezelf voorbereid.&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Erken ook de &lt;em&gt;bias&lt;/em&gt; die je hebt in je visualisaties. Zie in, terwijl je visualiseert, tot in hoeverre je iets eerder negatief dan positief ziet eindigen. Laat het z’n weg belopen, en visualiseer de volgende keer het tegenovergestelde. &lt;br /&gt;
 Er zijn genoeg manieren hoe visualisatie je juist kan tegenhouden. Bij angst(stoornissen) is dit niet een erg bevorderend streven. Als je hier last van hebt is het aan te raden je visualisaties aan de kant te zetten.&lt;/p&gt;
@@ -91,7 +138,7 @@ Er zijn genoeg manieren hoe visualisatie je juist kan tegenhouden. Bij angst(sto
   &lt;/ol&gt;
 &lt;/div&gt;
 </summary>
-      <id>http://localhost:4001/2020/02/12/pp-law/</id>
+      <id>http://localhost:4000/2020/02/12/pp-law/</id>
       <updated>2020-02-12T12:11:51+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
@@ -100,7 +147,7 @@ Er zijn genoeg manieren hoe visualisatie je juist kan tegenhouden. Bij angst(sto
   
     <entry>
       <title>Over Metacognitie, Mindfulness en Leervaardigheid</title>
-      <link href="http://localhost:4001/2020/01/16/introduction/" />
+      <link href="http://localhost:4000/2020/01/16/introduction/" />
       <summary type="html">&lt;p&gt;&lt;strong&gt;Waar we vroeger naar Tibet keken als het land van rust en geesteszuivering&lt;/strong&gt;, zijn we er relatief kort geleden achter gekomen dat mindfulness wel degelijk een zeer significant therapeutisch effect heeft en zelfs de go-to methode van psychotherapie in Europa en Amerika is geworden &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.
 Mindfulness komt van de term &lt;em&gt;sati&lt;/em&gt;, voor boeddhisten één van de zeven factoren der verlichting. Tegen het einde van de twintigste eeuw werd de term &lt;em&gt;sati&lt;/em&gt; geïnterpreteerd als de spirituele reis naar &lt;em&gt;ongestoorde aandacht&lt;/em&gt; en &lt;em&gt;volledig bewustzijn van het hier en nu&lt;/em&gt; &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Met modernisering komt de vraag naar feitelijke juistheid, en zo werd de taak van wetenschappers om het effect hiervan te onderzoeken geboren. Sindsdien is één van de wetenschappelijke doorbraken het onderzoek dat mindfulness niet alleen (terugkerende) depressie terugdringt, maar ook &lt;em&gt;à ce moment-là&lt;/em&gt; depressieve symptomen kan verlichten, en nog veel meer (zie o.a: &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 
@@ -183,7 +230,7 @@ do not interpret the situation as stressful.” &lt;sup id=&quot;fnref:4&quot;&g
   &lt;/ol&gt;
 &lt;/div&gt;
 </summary>
-      <id>http://localhost:4001/2020/01/16/introduction/</id>
+      <id>http://localhost:4000/2020/01/16/introduction/</id>
       <updated>2020-01-16T12:11:51+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
