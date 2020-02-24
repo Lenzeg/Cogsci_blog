@@ -1,57 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lenns Cognities 🧠</title>
-  <id>http://localhost:4000</id>
-  <link href="http://localhost:4000" />
-  <link href="http://localhost:4000/atom.xml" rel="self" />
-  <updated>2020-02-19T14:08:50+01:00</updated>
+  <id>http://localhost:4001</id>
+  <link href="http://localhost:4001" />
+  <link href="http://localhost:4001/atom.xml" rel="self" />
+  <updated>2020-02-24T16:32:46+01:00</updated>
   <rights>Copyright 2020, Lennart Zegerius</rights>
   <author>
     <name>Lennart Zegerius</name>
   </author>
   
     <entry>
-      <title>Lezen voor mensen zonder concentratie: hoe?</title>
-      <link href="http://localhost:4000/2020/02/18/lezen/" />
-      <summary type="html">&lt;p&gt;Het gemak van lezen lijkt ons niet allemaal gegund. Zo ken je vast wel iemand die iedere week een boek uitleest. Je vraagt je af waar iemand de tijd vandaan haalt. Je zegt tegen jezelf dat je dit ook wil doen en bestelt een boek op bol.com die bij binnenkomst als decoratiestuk zal mogen gelden.&lt;/p&gt;
+      <title>Waarom lezen sommige mensen zo snel?</title>
+      <link href="http://localhost:4001/2020/02/18/lezen/" />
+      <summary type="html">&lt;p&gt;Het gemak om snel te lezen lijkt ons niet allemaal gegund. Zo ken je vast wel iemand die iedere week een boek uitleest, en vraag je je vervolgens af waar iemand de tijd vandaan haalt. Je zegt tegen jezelf dat je dit ook wil doen en bestelt een boek op bol.com die bij binnenkomst als decoratiestuk zal mogen gelden.&lt;/p&gt;
 
 &lt;p&gt;Leren lezen gaat gepaard met een mooie eigenschap van de mens door allen gekend als &lt;strong&gt;zelfverzekerdheid&lt;/strong&gt;. In de poging dit pedagogisch te analyseren ga ik ervanuit dat een kind leert lezen en problemen oplossen rond dezelfde leeftijd. Er speelt een rol van de omgeving in de ontwikkeling van zelfvertrouwen en zelfeffectiviteit bij kinderen met als variabel de vaardigheid om problemen op te lossen. De manier hoe je zelfvertrouwen ontwikkelt heeft directe invloed op je leesvaardigheid en, niet onbelangrijk, het &lt;em&gt;comfort&lt;/em&gt; wat je hebt tijdens het lezen. Waarom kost lezen je zoveel energie? Waarom vallen je ogen dicht na een aantal pagina’s? Waarom lees je zo langzaam? Waarom vind ik lezen zo saai? Ik zal in deze post je proberen uit te leggen waar dit vandaan komt.&lt;/p&gt;
 
-&lt;p&gt;We hebben ons allemaal wel eens zelfverzekerd gevoeld. Denk aan die keer dat iemand iets betwijfelde waar jij zeker over was. Of die keer dat je een tentamen zo goed geleerd had dat je met borst naar voren en kin omhoog de tentamenzaal binnenliep. Jij wist zeker, dit kan niet mis gaan. 
-Ditzelfde soort zelfverzekerdheid komt, wellicht in mindere mate, ook voor bij goede lezers. Het lijkt mij zeer waarschijnlijk dat dit ontstaat door de bevestiging van intelligentie afkomend van de omgeving van het kind. Wanneer je vaardigheid om problemen op te lossen niet zo snel in twijfel wordt gebracht ervaar je minder cognitieve belasting op het gehele proces dat problemen oplossen omringt. Alhoewel ik hier geen bron voor heb concludeer ik dit zelf uit het onderzoek wat is gedaan naar &lt;strong&gt;snellezen&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We hebben ons allemaal wel eens zelfverzekerd gevoeld. Denk aan die keer dat iemand iets betwijfelde waar jij zeker over was, of die keer dat je voor een tentamen zo goed geleerd had dat je met borst naar voren en kin omhoog de tentamenzaal binnenliep. Jij wist zeker, dit kan niet mis gaan. 
+Ditzelfde soort zelfverzekerdheid komt, wellicht in mindere mate, ook voor bij goede lezers. Het lijkt mij zeer waarschijnlijk dat dit ontstaat door de bevestiging van intelligentie afkomend van de omgeving van het kind. Wanneer je vaardigheid om problemen op te lossen niet zo snel in twijfel wordt gebracht ervaar je minder cognitieve belasting op het gehele proces dat problemen oplossen omringt. Alhoewel ik hier geen bron voor heb concludeer ik dit zelf uit verschillend onderzoek gedaan naar &lt;strong&gt;snellezen&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Snellezen is een vaardigheid die onder meer de volgende gewoontes aanpakt:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Regressie&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Subvocalisatie&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Uitstel van begrip&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Voor meer uitleg over snellezen zie bijvoorbeeld deze video van Tim Ferriss:&lt;/p&gt;
 
-&lt;p&gt;In een volgend moment zal ik deze leesgewoontes uitleggen, maar alvorens wil ik zeggen dat precies deze gewoontes die aangepakt worden verergeren met een tekort aan zelfverzekerdheid en comfort tijdens het lezen.&lt;/p&gt;
+&lt;center&gt;
+&lt;figure class=&quot;video_container&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/ZwEquW_Yij0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;Tim Ferriss &lt;/iframe&gt;
+&lt;/figure&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Ik zal een aantal &lt;strong&gt;leesgewoontes&lt;/strong&gt; uitleggen die &lt;em&gt;snellezers&lt;/em&gt; adviseren te veranderen, maar alvorens wil ik zeggen dat precies deze gewoontes die aangepakt worden verergeren met een tekort aan zelfverzekerdheid en comfort tijdens het lezen.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;center&gt;Regressie&lt;/center&gt;&lt;/strong&gt;
 &lt;em&gt;&lt;center style=&quot;font-size: 0.7em&quot;&gt;re·gres·sie (de; v; meervoud: regressies):
 het teruggaan tot een vroeger stadium.&lt;/center&gt;&lt;/em&gt;&lt;/p&gt;
 
+&lt;p&gt;In ieder geval één ding waar een tekort zelfverzekerdheid invloed op heeft is &lt;strong&gt;regressie&lt;/strong&gt;. Regressie is het herlezen van tekst die je al gelezen hebt. Als je iets niet goed begrijpt lees stukken soms opnieuw en opnieuw, wat frustrerend en vermoeiend kan zijn. ‘Goede’ lezers doen dit minder dan ‘slechte’ lezers. Ik verklaar dat dit gedrag wat zich veel voordoet bij ‘slechte’ lezers door een tekort aan vertrouwen komt dat de informatie goed verwerkt zal worden. Het is een onderbreker van concentratie die veel druk legt op het begrijpen van de tekst. Regressie maakt lezen natuurlijk erg langzaam. Als je ‘slecht’ leest kan je waarsdchijnlijk moeilijk begrijpen dat sommige mensen zo snel boeken uitlezen, want begrijpt diegene het dan wel echt? Hoe is diegene zo zeker dat de informatie blijft hangen?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;center&gt;Uitstel van begrip&lt;/center&gt;&lt;/strong&gt;
+&lt;em&gt;&lt;center style=&quot;font-size: 0.7em&quot;&gt;Ik snap hier eigenlijk weinig van, zou ik wel doorlezen?&lt;/center&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Één manier om regressie tegen te gaan is door &lt;strong&gt;uitstel van begrip.&lt;/strong&gt; Vraag jezelf niet midden op een pagina af of je wel hebt begrepen wat er verteld werd, maar stel dit uit tot aan het einde van de pagina. Je hoeft niet iedere zin in een studieboek te begrijpen om aan het einde van het hoofdstuk de context te begrijpen en zelfs toe te passen. &lt;br /&gt;
+Accepteer dat de details gegeven in het boek kunnen worden opgezocht als naslagwerk. Verplaats je aandacht naar nieuwsgierigheid voor wat de lezer je te vertellen heeft. Wat je uiteindelijk onthoudt ligt veel ingewikkelder dan je denkt. Je huidige levens-context heeft (te) veel invloed om jezelf zo veel druk op te leggen om alles gelijk te begrijpen. Begrip komt pas wanneer je met de materie aan de gang gaat en/of onder enige aversie de stof gaat gebruiken. Bijvoorbeeld een tentamen waar je toch écht dat algoritme voor uit je hoofd moet kennen. 
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ook de ‘goede’ lezers weten vaak niet helemaal zeker of ze echt begrijpen wat ze hebben gelezen. Echter is er bij hen het vertrouwen dat in een context waar deze informatie gebruikt moet worden zij de verbindingen kunnen en zullen gaan leggen. Dit is wederom waar zelfverzekerdheid te pas komt.&lt;/p&gt;
+
+&lt;p&gt;Vraag jezelf af wat je wil halen uit een boek. Wat kan een boek jou geven? De schrijver heeft waarschijnlijk het boek geschreven om een zo groot mogelijk publiek binnen een bepaalde doelgroep te treffen. Zo staat er in het boek Fundamentals of Neuropsychology&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; ook een stuk over drugsgebruik en verslaving. Natuurlijk is het logisch (binnen het vakgebied) om hierover in het boek te schrijven. Echter zullen er lezers zijn die het boek kopen puur voor dat hoofdstuk en zullen er lezers zijn die het skippen. Voel je vrij om pagina’s of zelfs hoofdstukken te skippen of globaal te lezen tot je iets interessants tegenkomt.&lt;/p&gt;
+
+&lt;p&gt;Jouw oordeel over het belang van de inhoud is, tot op zekere hoogte, &lt;strong&gt;precies het oordeel dat je zou moeten volgen&lt;/strong&gt;.&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;&lt;center&gt;Subvocalisatie&lt;/center&gt;&lt;/strong&gt;
 &lt;em&gt;&lt;center style=&quot;font-size: 0.7em&quot;&gt;Abstract: in gedachten uitspreken wat je leest.&lt;/center&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;center&gt;Uitstel van begrip&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ten slotte wil ik het over subvocalisatie hebben. De meesten onder ons hebben geleerd te lezen door middel van de tekst stilletjes herhalen in je hoofd (ook bekend als de &lt;em&gt;phonological loop&lt;/em&gt; in je werkgeheugen). Dit gaat bij de meesten rond de 200 woorden per minuut. Echter weten weinig mensen dat men sneller kan lezen dan praten. Je leessnelheid kan je beïnvloeden door de stem in je hoofd te dempen en vertrouwen te krijgen in je visuele verwerking van informatie. Je perifere zicht ziet en verwerkt namelijk ook informatie, zelfs al focus je er niet op. Zoals Tim Ferriss in de video hierboven vertelde is het efficiënt om niet ieder woord te willen zien, maar te vertrouwen dat je perifere zicht de verbindende en opvullende woorden zal verwerken.
+&lt;img src=&quot;https://i.imgur.com/i5pYOp6l.png&quot; style=&quot;zoom: 50%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Je hoeft niet ieder woord te bekijken om het te zien.&lt;/figcaption&gt;
 
-&lt;figure class=&quot;video_container&quot;&gt;
-  &lt;iframe src=&quot;https://www.youtube.com/watch?v=ZwEquW_Yij0/&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;Tim Ferriss &lt;/iframe&gt;
-&lt;/figure&gt;
+&lt;p&gt;Wij mensen zijn vele malen efficiënter in visuele informatie verwerken dan informatie voorgelezen door de stem in ons hoofd. Door o.a. onzekerheid willen de meeste langzame lezers ieder woord zien, de volgende regel &lt;em&gt;bewust meemaken&lt;/em&gt; en heel geconcentreerd bezig zijn met de activiteit dat lezen is. &lt;br /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Tim Ferris over Snellezen&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Als je hier last van hebt, probeer voortaan als je zin hebt om te lezen wat &lt;strong&gt;minder resultaatgericht&lt;/strong&gt; te zijn. Lees op tijd en niet met een aantal pagina’s in gedahten. Begin met 10 minuten lang een interessant boek lezen, probeer &lt;strong&gt;kijkend&lt;/strong&gt; te lezen en beslis per pagina of je de begrijpt wat er geschreven is. Laat je ogen het werk doen, en wat er verder intern gebeurt laat je z’n gang gaan. Ga niet teveel piekeren over de inhoud en accepteer dat je het mogelijk niet gaat begrijpen. Natuurlijk kan je even gaan nadenken, iets opschrijven of opzoeken. Laat dit natuurlijk gebeuren, vertrouw erop dat jouw hersenen verbindingen kan leggen en context kan zien zonder dat jij daar bewust invloed op zal hebben.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Role of the environment in learning to solve problems&lt;/li&gt;
-&lt;/ul&gt;
+&lt;hr /&gt;
 
+&lt;p&gt;&lt;em&gt;Links&lt;/em&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.irisreading.com/how-to-reduce-subvocalization/&quot;&gt;How to reduce subvocalization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.wikihow.com/Learn-Speed-Reading&quot;&gt;wikiHow: Learning to Speed Read&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.bol.com/nl/f/fund-human-neuropsych-7e/9200000020385103/&quot;&gt;Fundamentals of Human Neuropsychology&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 </summary>
-      <id>http://localhost:4000/2020/02/18/lezen/</id>
+      <id>http://localhost:4001/2020/02/18/lezen/</id>
       <updated>2020-02-18T12:11:51+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
@@ -60,7 +85,7 @@ het teruggaan tot een vroeger stadium.&lt;/center&gt;&lt;/em&gt;&lt;/p&gt;
   
     <entry>
       <title>Waar Predictive Processing onverwachts The Law of Attraction ontmoet</title>
-      <link href="http://localhost:4000/2020/02/12/pp-law/" />
+      <link href="http://localhost:4001/2020/02/12/pp-law/" />
       <summary type="html">&lt;p&gt;&lt;em&gt;&lt;center&gt;&quot;We can never know &quot;the thing in itself&quot; that is, the actual causes in the world of the effects we experience&quot; -Immanuel Kant (1781)&lt;/center&gt;&lt;/em&gt;
 &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
@@ -138,7 +163,7 @@ Er zijn genoeg manieren hoe visualisatie je juist kan tegenhouden. Bij angst(sto
   &lt;/ol&gt;
 &lt;/div&gt;
 </summary>
-      <id>http://localhost:4000/2020/02/12/pp-law/</id>
+      <id>http://localhost:4001/2020/02/12/pp-law/</id>
       <updated>2020-02-12T12:11:51+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
@@ -147,7 +172,7 @@ Er zijn genoeg manieren hoe visualisatie je juist kan tegenhouden. Bij angst(sto
   
     <entry>
       <title>Over Metacognitie, Mindfulness en Leervaardigheid</title>
-      <link href="http://localhost:4000/2020/01/16/introduction/" />
+      <link href="http://localhost:4001/2020/01/16/introduction/" />
       <summary type="html">&lt;p&gt;&lt;strong&gt;Waar we vroeger naar Tibet keken als het land van rust en geesteszuivering&lt;/strong&gt;, zijn we er relatief kort geleden achter gekomen dat mindfulness wel degelijk een zeer significant therapeutisch effect heeft en zelfs de go-to methode van psychotherapie in Europa en Amerika is geworden &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.
 Mindfulness komt van de term &lt;em&gt;sati&lt;/em&gt;, voor boeddhisten één van de zeven factoren der verlichting. Tegen het einde van de twintigste eeuw werd de term &lt;em&gt;sati&lt;/em&gt; geïnterpreteerd als de spirituele reis naar &lt;em&gt;ongestoorde aandacht&lt;/em&gt; en &lt;em&gt;volledig bewustzijn van het hier en nu&lt;/em&gt; &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Met modernisering komt de vraag naar feitelijke juistheid, en zo werd de taak van wetenschappers om het effect hiervan te onderzoeken geboren. Sindsdien is één van de wetenschappelijke doorbraken het onderzoek dat mindfulness niet alleen (terugkerende) depressie terugdringt, maar ook &lt;em&gt;à ce moment-là&lt;/em&gt; depressieve symptomen kan verlichten, en nog veel meer (zie o.a: &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 
@@ -230,7 +255,7 @@ do not interpret the situation as stressful.” &lt;sup id=&quot;fnref:4&quot;&g
   &lt;/ol&gt;
 &lt;/div&gt;
 </summary>
-      <id>http://localhost:4000/2020/01/16/introduction/</id>
+      <id>http://localhost:4001/2020/01/16/introduction/</id>
       <updated>2020-01-16T12:11:51+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
