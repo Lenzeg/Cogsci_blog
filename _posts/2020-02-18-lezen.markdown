@@ -2,7 +2,7 @@
 
 layout: post
 
-title:  "Waarom lezen sommige mensen zo snel?"
+title:  "Lezen, leesgewoontes en sneller begrip"
 
 date:   2020-02-18 11:11:51
 
@@ -31,18 +31,18 @@ Ik zal een aantal **leesgewoontes** uitleggen die *snellezers* adviseren te vera
 het teruggaan tot een vroeger stadium.</center>*
 
 
-In ieder geval één ding waar een tekort zelfverzekerdheid invloed op heeft is **regressie**. Regressie is het herlezen van tekst die je al gelezen hebt. Als je iets niet goed begrijpt lees stukken soms opnieuw en opnieuw, wat frustrerend en vermoeiend kan zijn. 'Goede' lezers doen dit minder dan 'slechte' lezers. Ik verklaar dat dit gedrag wat zich veel voordoet bij 'slechte' lezers door een tekort aan vertrouwen komt dat de informatie goed verwerkt zal worden. Het is een onderbreker van concentratie die veel druk legt op het begrijpen van de tekst. Regressie maakt lezen natuurlijk erg langzaam. Als je 'slecht' leest kan je waarsdchijnlijk moeilijk begrijpen dat sommige mensen zo snel boeken uitlezen, want begrijpt diegene het dan wel echt? Hoe is diegene zo zeker dat de informatie blijft hangen?
+In ieder geval één ding waar een tekort zelfverzekerdheid invloed op heeft is **regressie**. Regressie is het herlezen van tekst die je al gelezen hebt. Als je iets niet goed begrijpt lees stukken soms opnieuw en opnieuw, wat frustrerend en vermoeiend kan zijn. 'Goede' lezers doen dit minder dan 'slechte' lezers. Ik verklaar dat dit gedrag wat zich veel voordoet bij 'slechte' lezers door een tekort aan vertrouwen komt dat de informatie goed verwerkt zal worden. Het is een onderbreker van concentratie die veel druk legt op het begrijpen van de tekst. Regressie maakt lezen natuurlijk erg langzaam. Als je 'slecht' leest kan je waarschijnlijk moeilijk begrijpen dat sommige mensen zo snel boeken uitlezen. Begrijpt diegene echt alles wat hij/zij leest? Hoe is diegene zo zeker dat de informatie blijft hangen?
 
 **<center>Uitstel van begrip</center>**
 *<center style="font-size: 0.7em">Ik snap hier eigenlijk weinig van, zou ik wel doorlezen?</center>*
 
 Één manier om regressie tegen te gaan is door **uitstel van begrip.** Vraag jezelf niet midden op een pagina af of je wel hebt begrepen wat er verteld werd, maar stel dit uit tot aan het einde van de pagina. Je hoeft niet iedere zin in een studieboek te begrijpen om aan het einde van het hoofdstuk de context te begrijpen en zelfs toe te passen. <br>
-Accepteer dat de details gegeven in het boek kunnen worden opgezocht als naslagwerk. Verplaats je aandacht naar nieuwsgierigheid voor wat de lezer je te vertellen heeft. Wat je uiteindelijk onthoudt ligt veel ingewikkelder dan je denkt. Je huidige levens-context heeft (te) veel invloed om jezelf zo veel druk op te leggen om alles gelijk te begrijpen. Begrip komt pas wanneer je met de materie aan de gang gaat en/of onder enige aversie de stof gaat gebruiken. Bijvoorbeeld een tentamen waar je toch écht dat algoritme voor uit je hoofd moet kennen. 
+Accepteer dat de details gegeven in het boek kunnen worden opgezocht als naslagwerk. Verplaats je aandacht naar nieuwsgierigheid voor wat de lezer je te vertellen heeft. Wat je uiteindelijk onthoudt ligt veel ingewikkelder dan je denkt. Je huidige levens-context heeft (te) veel invloed om jezelf zo veel druk op te leggen om alles gelijk te begrijpen. Begrip komt pas wanneer je met de materie aan de gang gaat en/of onder enige aversie de stof gaat gebruiken; bijvoorbeeld een tentamen waar je toch écht dat algoritme voor uit je hoofd moet kennen. 
 <br>
 
 Ook de 'goede' lezers weten vaak niet helemaal zeker of ze echt begrijpen wat ze hebben gelezen. Echter is er bij hen het vertrouwen dat in een context waar deze informatie gebruikt moet worden zij de verbindingen kunnen en zullen gaan leggen. Dit is wederom waar zelfverzekerdheid te pas komt.
 
-Vraag jezelf af wat je wil halen uit een boek. Wat kan een boek jou geven? De schrijver heeft waarschijnlijk het boek geschreven om een zo groot mogelijk publiek binnen een bepaalde doelgroep te treffen. Zo staat er in het boek Fundamentals of Neuropsychology[^1] ook een stuk over drugsgebruik en verslaving. Natuurlijk is het logisch (binnen het vakgebied) om hierover in het boek te schrijven. Echter zullen er lezers zijn die het boek kopen puur voor dat hoofdstuk en zullen er lezers zijn die het skippen. Voel je vrij om pagina's of zelfs hoofdstukken te skippen of globaal te lezen tot je iets interessants tegenkomt. 
+Vraag, voor je beslist een boek te lezen, jezelf af wat je wil halen uit het boek. Wat kan het boek jou geven? De schrijver heeft waarschijnlijk het boek geschreven om een zo groot mogelijk publiek binnen een bepaalde doelgroep te treffen. Zo staat er in het boek Fundamentals of Neuropsychology[^1] ook een stuk over drugsgebruik en verslaving. Natuurlijk is het logisch (binnen het vakgebied) om hierover in het boek te schrijven. Echter zullen er lezers zijn die het boek kopen puur voor dat hoofdstuk en zullen er lezers zijn die het skippen. Voel je vrij om pagina's of zelfs hoofdstukken te skippen of globaal te lezen tot je iets interessants tegenkomt. 
 
 Jouw oordeel over het belang van de inhoud is, tot op zekere hoogte, **precies het oordeel dat je zou moeten volgen**.
 
@@ -55,10 +55,10 @@ Ten slotte wil ik het over subvocalisatie hebben. De meesten onder ons hebben ge
 <img src="https://i.imgur.com/i5pYOp6l.png" style="zoom: 50%">
 <figcaption>Je hoeft niet ieder woord te bekijken om het te zien.</figcaption>
 
-Wij mensen zijn vele malen efficiënter in visuele informatie verwerken dan informatie voorgelezen door de stem in ons hoofd. Door o.a. onzekerheid willen de meeste langzame lezers ieder woord zien, de volgende regel *bewust meemaken* en heel geconcentreerd bezig zijn met de activiteit dat lezen is. <br>
+Wij mensen zijn vele malen efficiënter in visuele informatie verwerken dan informatie verwerken dat door de stem in ons hoofd is voorgelezen. Door o.a. onzekerheid willen de meeste langzame lezers ieder woord zien, de volgende regel *bewust meemaken* en heel geconcentreerd bezig zijn met de activiteit dat lezen is. <br>
 
 
-Als je hier last van hebt, probeer voortaan als je zin hebt om te lezen wat **minder resultaatgericht** te zijn. Lees op tijd en niet met een aantal pagina's in gedahten. Begin met 10 minuten lang een interessant boek lezen, probeer **kijkend** te lezen en beslis per pagina of je de begrijpt wat er geschreven is. Laat je ogen het werk doen, en wat er verder intern gebeurt laat je z'n gang gaan. Ga niet teveel piekeren over de inhoud en accepteer dat je het mogelijk niet gaat begrijpen. Natuurlijk kan je even gaan nadenken, iets opschrijven of opzoeken. Laat dit natuurlijk gebeuren, vertrouw erop dat jouw hersenen verbindingen kan leggen en context kan zien zonder dat jij daar bewust invloed op zal hebben. 
+Als je hier last van hebt, probeer voortaan als je zin hebt om te lezen wat **minder resultaatgericht** te zijn. Lees op tijd en niet met een aantal pagina's in gedahten. Begin met 10 minuten lang een interessant boek lezen, probeer **kijkend** te lezen en beslis per pagina of je begrijpt wat er geschreven is. Laat je ogen het werk doen, hou het stemmetje stil en wat er verder intern gebeurt laat je z'n gang gaan. Ga niet teveel piekeren over de inhoud en accepteer dat je het mogelijk niet gaat begrijpen. Natuurlijk kun je even gaan nadenken, iets opschrijven of opzoeken. Laat dit natuurlijk gebeuren, vertrouw erop dat jouw hersenen verbindingen kan leggen en context kan zien zonder dat jij daar bewust invloed op zal hebben. 
 
 
 
