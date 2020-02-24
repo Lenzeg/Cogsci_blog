@@ -2,7 +2,7 @@
 
 layout: post
 
-title:  "Lezen, leesgewoontes en sneller begrip"
+title:  "Leesgewoontes van Ongeconcentreerde Lezers"
 
 date:   2020-02-18 11:11:51
 
