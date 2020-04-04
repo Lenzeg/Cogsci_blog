@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>lenn.dev 🧠</title>
-  <id>http://localhost:4000</id>
-  <link href="http://localhost:4000" />
-  <link href="http://localhost:4000/atom.xml" rel="self" />
-  <updated>2020-04-05T00:14:23+02:00</updated>
+  <id>http://localhost:4001</id>
+  <link href="http://localhost:4001" />
+  <link href="http://localhost:4001/atom.xml" rel="self" />
+  <updated>2020-04-05T00:53:30+02:00</updated>
   <rights>Copyright 2020, Lennart Zegerius</rights>
   <author>
     <name>Lennart Zegerius</name>
@@ -12,19 +12,18 @@
   
     <entry>
       <title>Het coronavirus versus de sleur van het leven</title>
-      <link href="http://localhost:4000/2020/04/04/corona/" />
+      <link href="http://localhost:4001/2020/04/04/corona/" />
       <summary type="html">&lt;p&gt;&lt;em&gt;&lt;center&gt;&quot;Volgens mij had ik Freud al eens geciteerd die heeft gezegd dat psychotherapie het omzetten van neurotische ellende in reële ellende is. En die reële ellende is er nu genoeg.&quot;&lt;/center&gt;&lt;/em&gt; &lt;center&gt;H. Sigling, psychiater &lt;/center&gt;&lt;/p&gt;
 
-&lt;p&gt;Voor wie doorgaans weinig dagen beleeft zonder besogne lijkt de coronacrisis stiekem als redding te gelden. Ondanks de maatschappelijke beroering dat ze met zich meebrengt geloof ik dat voor velen door de crisis de druk van de ketel verdwijnt.&lt;/p&gt;
+&lt;p&gt;Voor wie doorgaans weinig dagen beleeft zonder besogne lijkt de coronacrisis stiekem als redding te gelden. Ondanks de maatschappelijke beroering dat deze crisis met zich meebrengt geloof ik dat voor velen hierdoor de druk van de ketel verdwijnt.&lt;/p&gt;
 
-&lt;p&gt;We moeten niet vergeten dat we de afgelopen jaren ons nog ongerust maakten door de verhoogde stressniveaus beleefd door velen als resultaat van onrealistische verwachtingen van de maatschappij. Van jongeren wordt met een onontwikkeld prefrontale cortex (&lt;a href=&quot;https://www.nrc.nl/advertentie/onvz/een-kijkje-in-het-puberbrein&quot;&gt;puberbrein&lt;/a&gt;) al verwacht hun toekomstplannen te maken. Eenmaal ontwikkeld zien ze in dat ze deze keuze hebben gemaakt onder hele verkeerde redenen. Daarbij willen meiden jong lijken met filters, jongens rijk lijken en relaties perfect lijken. Dit is overdreven natuurlijk - ik leg hier de nadruk op de onhaalbaarheid van dit beeld. 
+&lt;p&gt;We moeten niet vergeten dat we de afgelopen jaren ons nog ongerust maakten over de onnatuurlijke stressniveaus ondervonden door mensen als resultaat van onrealistische verwachtingen van de maatschappij. Van jongeren wordt (met een nog onontwikkeld prefrontale cortex, zie &lt;a href=&quot;https://www.nrc.nl/advertentie/onvz/een-kijkje-in-het-puberbrein&quot;&gt;dit artikel&lt;/a&gt;) al verwacht toekomstplannen te maken. Eenmaal ontwikkeld zien ze in dat ze deze keuze hebben gemaakt onder valse voorwendselen. Daarbij willen meiden mooier lijken met filters, jongens rijk lijken en relaties perfect lijken. Dit is natuurlijk overdreven - ik leg hier de nadruk op de onhaalbaarheid van dit beeld. 
 Het is niet direct gerelateerd aan de huidige crisis, echter is het tijd om het torenhoge stressniveau ondervonden door zovelen eens te verlagen. 
-Echter wordt er zelfs bij het nemen van rust nog stress ondervonden, bijvoorbeeld door schuldgevoel. Het collectieve thuis-zijn en de landelijke demping van evenementen/horeca geeft ons allen de tijd gezamelijk ons terug te trekken.&lt;/p&gt;
+Echter, bij het nemen van rust wordt nog steeds stress ondervonden, bijvoorbeeld door schuldgevoel. Het collectieve thuis-zijn en de landelijke demping van evenementen/horeca geeft ons allen de tijd gezamelijk ons terug te trekken zonder &lt;em&gt;Fear of Missing Out (FOMO)&lt;/em&gt; .&lt;/p&gt;
 
-&lt;p&gt;Thuisisolatie heeft zo zijn voordelen. Ik ben nu blij dat ik huisgenoten heb. Er is weinig sociale activiteit, wat de waardering ervoor herstelt. Voor velen is er weer quality-time met het gezin. . Jongeren hebben geen last van &lt;em&gt;influencers&lt;/em&gt; waar ze voorheen jaloers langs gesponsorde Bali-foto’s scrollen. Werkenden hebben even niet te dealen met ochtend- en avond spits. Onzekere mensen zijn even wat minder bezig met hun uiterlijk en laten misschien dat ongelukkige dieet even voor wat het is.&lt;/p&gt;
-
+&lt;p&gt;Thuisisolatie heeft zo zijn voordelen. Ik ben nu opgelucht dat ik huisgenoten heb. Er is weinig sociale activiteit, wat de waardering ervoor herstelt. Voor velen is er weer quality-time met het gezin. Jongeren hebben geen last van &lt;em&gt;influencers&lt;/em&gt; waar ze voorheen jaloers langs gesponsorde Bali-foto’s scrollen. Werkenden hebben even niet te dealen met ochtend- en avondspits. Onzekere mensen zijn even wat minder bezig met hun uiterlijk en laten misschien dat ongelukkige dieet even voor wat het is. De essentie van ons bestaan wordt gedwongen als een spiegel aan ons voorgehouden, en we zitten allemaal in hetzelfde schuitje.&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;&lt;center&gt;We zitten allemaal in het zelfde schuitje.&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;“Je hebt jarenlange excel sheets gemaakt alsof je leven ervan afhing, maar nu blijkt dat helemaal niemands leven ervan afhing.” - Peter Pannekoek&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;/typora_blogs/home-2019.png&quot; alt=&quot;home&quot; /&gt;&lt;/p&gt;
@@ -39,14 +38,14 @@ Mondiaal in een positie &lt;em&gt;geduwd&lt;/em&gt; worden verbetert de sociale 
 &lt;p&gt;Kortom, elk nadeel heb zo zijn voordeel. Het is de overledenen niet waard, maar het is wel hoe de natuur dicteert. Uiteindelijk gaat dit voor velen een bijzondere manier zijn om de sleur van het leven te ontsnappen.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;em&gt;Terwijl ik dit schrijf verweet mijn huisgenoot mij dat ik net te laat ben de originaliteit van dit stuk. Voor een ander perspectief op dezelfde insteek als deze post, lees &lt;a href=&quot;https://www.parool.nl/columns-opinie/een-stressvrij-gezond-en-dus-rijk-leven-met-minder-prikkels~b10d798e/&quot;&gt;dit stuk van Nadine Ridder in het Parool&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;em&gt;Terwijl ik dit schrijf verweet mijn huisgenoot mij dat ik net te laat ben met de originaliteit van dit stuk. Voor een ander perspectief op dezelfde insteek als deze post, lees &lt;a href=&quot;https://www.parool.nl/columns-opinie/een-stressvrij-gezond-en-dus-rijk-leven-met-minder-prikkels~b10d798e/&quot;&gt;dit stuk van Nadine Ridder in het Parool&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;em&gt;&lt;small&gt;tags: corona, quarantaine, crisis, covid-19, burnout, stress&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
 
 </summary>
-      <id>http://localhost:4000/2020/04/04/corona/</id>
+      <id>http://localhost:4001/2020/04/04/corona/</id>
       <updated>2020-04-04T02:00:00+02:00</updated>
       <author>
         <name>Lennart Zegerius</name>
@@ -55,7 +54,7 @@ Mondiaal in een positie &lt;em&gt;geduwd&lt;/em&gt; worden verbetert de sociale 
   
     <entry>
       <title>Een atheïstische jaloezie op de voordelen van religie</title>
-      <link href="http://localhost:4000/2020/03/16/religie/" />
+      <link href="http://localhost:4001/2020/03/16/religie/" />
       <summary type="html">&lt;p&gt;Religie is voor velen ongeloofwaardig. De ongeloofwaardigheid van religie valt deels terug te koppelen op de opvoeding. Bij een kind staat de vorming van godsdienst gelijk aan de ontwikkeling van vele normen en waarden, met als fundering het gezin en directe omgeving zoals school en vrienden. Zo zijn meerdere normen en waarden van ouders niet per se juist, onderbouwd en geschikt voor opvoeding, maar dit laat ik in het midden. Voor jonge opgroeiende mensen zal in veel gevallen de normen en waarden direct worden overgenomen. Met alle respect durf ik te stellen dat (bijvoorbeeld) veel christenen opgegroeid in een Islamitisch gezin niet christen maar moslim geworden zouden zijn, gebaseerd op de vatbaarheid voor deze normen en waarden in de opvoeding. 
 Religie heeft ook een evolutionair voordeel, waarvoor ik graag verwijs naar het hoofdstuk &lt;em&gt;Het Evolutionele Voordeel van Religie&lt;/em&gt; uit het boek &lt;em&gt;Wij Zijn Ons Brein&lt;/em&gt; van Dick Swaab, &lt;a href=&quot;https://books.google.nl/books?id=NyEwAgAAQBAJ&amp;amp;pg=PT269&amp;amp;lpg=PT269&amp;amp;dq=dick+swaab+religie+evolutionair+voordeel&amp;amp;source=bl&amp;amp;ots=ViYyY0E-59&amp;amp;sig=ACfU3U1xlzZM62jqINCKccqamhqGsdERPA&amp;amp;hl=nl&amp;amp;sa=X&amp;amp;redir_esc=y#v=onepage&amp;amp;q=dick%20swaab%20religie%20evolutionair%20voordeel&amp;amp;f=false&quot;&gt;deels gratis te lezen.&lt;/a&gt;&lt;/p&gt;
 
@@ -129,7 +128,7 @@ Als je zelf niet gelooft in God, zie in dat de dankbaarheid gegenereerd door rel
   &lt;/ol&gt;
 &lt;/div&gt;
 </summary>
-      <id>http://localhost:4000/2020/03/16/religie/</id>
+      <id>http://localhost:4001/2020/03/16/religie/</id>
       <updated>2020-03-16T01:00:00+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
@@ -138,7 +137,7 @@ Als je zelf niet gelooft in God, zie in dat de dankbaarheid gegenereerd door rel
   
     <entry>
       <title>Leesgewoontes van Ongeconcentreerde Lezers</title>
-      <link href="http://localhost:4000/2020/02/25/lezen/" />
+      <link href="http://localhost:4001/2020/02/25/lezen/" />
       <summary type="html">&lt;p&gt;Het gemak om snel te lezen lijkt ons niet allemaal gegund. Zo ken je vast wel iemand die iedere week een boek uitleest, en vraag je je vervolgens af waar iemand de tijd vandaan haalt. Je zegt tegen jezelf dat je dit ook wil doen en bestelt een boek op bol.com die bij binnenkomst als decoratiestuk zal mogen gelden.&lt;/p&gt;
 
 &lt;p&gt;Leren lezen gaat gepaard met een mooie eigenschap van de mens door allen gekend als &lt;strong&gt;zelfverzekerdheid&lt;/strong&gt;. In de poging dit pedagogisch te analyseren ga ik ervanuit dat een kind leert lezen en problemen oplossen rond dezelfde leeftijd. Er speelt een rol van de omgeving in de ontwikkeling van zelfvertrouwen en zelfeffectiviteit bij kinderen met als variabel de vaardigheid om problemen op te lossen. De manier hoe je zelfvertrouwen ontwikkelt heeft directe invloed op je leesvaardigheid en, niet onbelangrijk, het &lt;em&gt;comfort&lt;/em&gt; wat je hebt tijdens het lezen. Waarom kost lezen je zoveel energie? Waarom vallen je ogen dicht na een aantal pagina’s? Waarom lees je zo langzaam? Waarom vind ik lezen zo saai? Ik zal in deze post je proberen uit te leggen waar dit vandaan komt.&lt;/p&gt;
@@ -202,7 +201,7 @@ Accepteer dat de details gegeven in het boek kunnen worden opgezocht als naslagw
   &lt;/ol&gt;
 &lt;/div&gt;
 </summary>
-      <id>http://localhost:4000/2020/02/25/lezen/</id>
+      <id>http://localhost:4001/2020/02/25/lezen/</id>
       <updated>2020-02-25T01:00:00+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
@@ -211,7 +210,7 @@ Accepteer dat de details gegeven in het boek kunnen worden opgezocht als naslagw
   
     <entry>
       <title>Waar Predictive Processing onverwachts The Law of Attraction ontmoet</title>
-      <link href="http://localhost:4000/2020/02/12/pp-law/" />
+      <link href="http://localhost:4001/2020/02/12/pp-law/" />
       <summary type="html">&lt;p&gt;&lt;em&gt;&lt;center&gt;&quot;We can never know &quot;the thing in itself&quot; that is, the actual causes in the world of the effects we experience&quot; -Immanuel Kant (1781)&lt;/center&gt;&lt;/em&gt;
 &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
@@ -289,7 +288,7 @@ Er zijn genoeg manieren hoe visualisatie je juist kan tegenhouden. Bij angst(sto
   &lt;/ol&gt;
 &lt;/div&gt;
 </summary>
-      <id>http://localhost:4000/2020/02/12/pp-law/</id>
+      <id>http://localhost:4001/2020/02/12/pp-law/</id>
       <updated>2020-02-12T12:11:51+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
@@ -298,7 +297,7 @@ Er zijn genoeg manieren hoe visualisatie je juist kan tegenhouden. Bij angst(sto
   
     <entry>
       <title>Over Metacognitie, Mindfulness en Leervaardigheid</title>
-      <link href="http://localhost:4000/2020/01/16/introduction/" />
+      <link href="http://localhost:4001/2020/01/16/introduction/" />
       <summary type="html">&lt;p&gt;&lt;strong&gt;Waar we vroeger naar Tibet keken als het land van rust en geesteszuivering&lt;/strong&gt;, zijn we er relatief kort geleden achter gekomen dat mindfulness wel degelijk een zeer significant therapeutisch effect heeft en zelfs de go-to methode van psychotherapie in Europa en Amerika is geworden &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.
 Mindfulness komt van de term &lt;em&gt;sati&lt;/em&gt;, voor boeddhisten één van de zeven factoren der verlichting. Tegen het einde van de twintigste eeuw werd de term &lt;em&gt;sati&lt;/em&gt; geïnterpreteerd als de spirituele reis naar &lt;em&gt;ongestoorde aandacht&lt;/em&gt; en &lt;em&gt;volledig bewustzijn van het hier en nu&lt;/em&gt; &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Met modernisering komt de vraag naar feitelijke juistheid, en zo werd de taak van wetenschappers om het effect hiervan te onderzoeken geboren. Sindsdien is één van de wetenschappelijke doorbraken het onderzoek dat mindfulness niet alleen (terugkerende) depressie terugdringt, maar ook &lt;em&gt;à ce moment-là&lt;/em&gt; depressieve symptomen kan verlichten, en nog veel meer (zie o.a: &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 
@@ -381,7 +380,7 @@ do not interpret the situation as stressful.” &lt;sup id=&quot;fnref:4&quot;&g
   &lt;/ol&gt;
 &lt;/div&gt;
 </summary>
-      <id>http://localhost:4000/2020/01/16/introduction/</id>
+      <id>http://localhost:4001/2020/01/16/introduction/</id>
       <updated>2020-01-16T12:11:51+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
