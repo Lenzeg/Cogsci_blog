@@ -2,93 +2,115 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-  <head>
-      <!-- <title>{{ site.name }} - {{ site.description }}</title> -->
-      <title>lenn.dev - blog</title>
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <meta http-equiv="content-language" content="en-gb" />
-      <meta name="description" content="{{ site.description }}">
-      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-      <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700|Lora:400,700,400italic" rel="stylesheet" type="text/css">
-      <link rel="stylesheet" type="text/css" href="{{ site.baseurl| split: '/' | join:'/' }}/css/main.css" />
-      <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
-      <link rel="shortcut icon" type="image/png" href="/favicon.png">
-  </head>
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
 
-  <body>
-    <!--[if lt IE 7]>
+<head>
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+      'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T77VCZL');</script>
+  <!-- End Google Tag Manager -->
+  <!-- <title>{{ site.name }} - {{ site.description }}</title> -->
+  <title>lenn.dev - blog</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta http-equiv="content-language" content="en-gb" />
+  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700|Lora:400,700,400italic" rel="stylesheet"
+    type="text/css">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl| split: '/' | join:'/' }}/css/main.css" />
+  <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
+  <link rel="shortcut icon" type="image/png" href="/favicon.png">
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T77VCZL"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <!--[if lt IE 7]>
         <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
     <![endif]-->
 
-    <div class="off-canvas">
-      <figure class="avatar">
-        <img src="{{ site.baseurl }}/assets/img/avatar.jpg" alt="Picture" title="That's me, {{ site.author }}.">
-      </figure>
-      <div class="bio">
-          <h1>Hey, ik ben {{ site.author }}.</h1>
-          <p>{{ site.author-bio }}</p>
-          <small> ❤️ config door Mathieu Mayer-Mazzoli</small><br>
-          <small> ✍🏻 door Lennart Zegerius</small> <br>
-          <small> 📧 lennart@zegeri.us</small>
+  <div class="off-canvas">
+    <figure class="avatar">
+      <img src="{{ site.baseurl }}/assets/img/avatar.jpg" alt="Picture" title="That's me, {{ site.author }}.">
+    </figure>
+    <div class="bio">
+      <h1>Hey, ik ben {{ site.author }}.</h1>
+      <p>{{ site.author-bio }}</p>
+      <small> ❤️ config door Mathieu Mayer-Mazzoli</small><br>
+      <small> ✍🏻 door Lennart Zegerius</small> <br>
+      <small> 📧 lennart@zegeri.us</small>
+    </div>
+    <nav>
+      <h6>Volg me (als je zin hebt)</h6>
+      <ul>
+        {% if site.twitter %}
+        <li><a target="_blank" href="https://twitter.com/{{ site.twitter }}">Twitter</a></li>
+        {% endif %}
+        {% if site.github %}
+        <li><a target="_blank" href="https://github.com/{{ site.github }}">Github</a></li>
+        {% endif %}
+        {% if site.linkedin %}
+        <li><a target="_blank" href="https://linkedin.com/in/{{ site.linkedin }}">LinkedIn</a></li>
+        {% endif %}
+        {% if site.instagram %}
+        <li><a target="_blank" href="https://instagram.com/{{ site.instagram }}">Instagram</a></li>
+        {% endif %}
+      </ul>
+
+
+    </nav>
+  </div>
+
+
+  <div class="site-wrapper">
+
+    <header>
+      <div class="h-wrap">
+        <h1 class="title"><a href="{{ site.baseurl | split:'/' | join:'/' | append:'/'  }}"
+            title="Back to Homepage">{{ site.name }}</a></h1>
+        <a class="menu-icon" title="Open Bio"><span class="lines"></span></a>
       </div>
-      <nav>
-        <h6>Volg me (als je zin hebt)</h6>
-        <ul>
-          {% if site.twitter %}
-          <li><a target="_blank" href="https://twitter.com/{{ site.twitter }}">Twitter</a></li>
-          {% endif %}
-          {% if site.github %}
-          <li><a target="_blank" href="https://github.com/{{ site.github }}">Github</a></li>
-          {% endif %}
-          {% if site.linkedin %}
-          <li><a target="_blank" href="https://linkedin.com/in/{{ site.linkedin }}">LinkedIn</a></li>
-          {% endif %}
-          {% if site.instagram %}
-          <li><a target="_blank" href="https://instagram.com/{{ site.instagram }}">Instagram</a></li>
-          {% endif %}
-        </ul>
+    </header>
 
+    <main>
+      {{ content }}
+    </main>
 
-      </nav>
-    </div>
+    <footer>
+      <small> ✍🏻 geschreven door {{ site.author }}</small> <br>
 
+    </footer>
 
-    <div class="site-wrapper">
+  </div>
+  {% comment %} site-wrapper {% endcomment %}
 
-      <header>
-        <div class="h-wrap">
-          <h1 class="title"><a href="{{ site.baseurl | split:'/' | join:'/' | append:'/'  }}" title="Back to Homepage">{{ site.name }}</a></h1>
-          <a class="menu-icon" title="Open Bio"><span class="lines"></span></a>
-        </div>
-      </header>
+  <script src="{{ site.baseurl }}/js/main.js"></script>
+  {% comment %} Google Analytics {% endcomment %}
+  {% if site.ga_tracking_id and site.ga_domain %}
+  <script>
+    (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-      <main>
-        {{ content }}
-      </main>
+    ga('create', '{{ site.ga_tracking_id }}', '{{ site.ga_domain }}');
+    ga('send', 'pageview');
+  </script>
+  {% endif %}
 
-      <footer>
-        <small> ✍🏻 geschreven door {{ site.author }}</small> <br>
-        
-      </footer>
+</body>
 
-    </div>
-    {% comment %} site-wrapper {% endcomment %}
-
-    <script src="{{ site.baseurl }}/js/main.js"></script>
-    {% comment %} Google Analytics {% endcomment %}
-    {% if site.ga_tracking_id and site.ga_domain %}
-      <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', '{{ site.ga_tracking_id }}', '{{ site.ga_domain }}');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
-
-  </body>
 </html>
