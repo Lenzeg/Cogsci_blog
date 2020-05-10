@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>lenn.dev 🧠</title>
-  <id>http://localhost:4001</id>
-  <link href="http://localhost:4001" />
-  <link href="http://localhost:4001/atom.xml" rel="self" />
-  <updated>2020-05-09T22:58:29+02:00</updated>
+  <id>http://localhost:4002</id>
+  <link href="http://localhost:4002" />
+  <link href="http://localhost:4002/atom.xml" rel="self" />
+  <updated>2020-05-10T10:47:38+02:00</updated>
   <rights>Copyright 2020, Lennart Zegerius</rights>
   <author>
     <name>Lennart Zegerius</name>
@@ -12,31 +12,31 @@
   
     <entry>
       <title>Het default-netwerk, creativiteit en ADHD</title>
-      <link href="http://localhost:4001/2020/05/09/creativiteit/" />
-      <summary type="html">&lt;p&gt;De synthese van iets nieuws is een combinatie van iets ouds; onder de meesten beter bekend als creativiteit (en wanneer het nog niet eerder voorkwam originaliteit). Creatief zijn komt altijd ongepland, alhoewel het volgens Steve Jobs wel degelijk in te plannen viel: 
+      <link href="http://localhost:4002/2020/05/09/default-netwerk/" />
+      <summary type="html">&lt;p&gt;De synthese van iets nieuws is een combinatie van iets ouds; onder de meesten beter bekend als creativiteit (en wanneer het nog niet eerder voorkwam originaliteit). Creatief zijn komt altijd ongepland, alhoewel Steve Jobs hier anders over dacht:
 &lt;em&gt;&lt;center&gt;“The best way I could describe the effect of the marijuana and hashish is that it would make me relaxed and creative.” &lt;/center&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Tegenwoordig is bekend dat cannabis eerder een benadelende werking heeft op creatief vermogen (Kowal et al., 2015), dus ik zal dit mogelijke placebo verder niet benoemen. 
 &lt;br /&gt;&lt;br /&gt;
 &lt;strong&gt;&lt;center&gt; Het default-netwerk en creativiteit &lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Creatief zijn vindt volgens (Beaty et al., 2018) zijn oorsprong in de samenwerking tussen een aantal netwerken in de hersenen. De verantwoordelijke netwerken  het default-netwerk, het taak-netwerk en het karakter-netwerk. De cohesie in deze netwerken speelt een grote rol in de productie, beoordeling en uiting van creativiteit.&lt;/p&gt;
+&lt;p&gt;Creatief zijn vindt volgens (Beaty et al., 2018) zijn oorsprong in de samenwerking tussen enkele netwerken in de hersenen. De verantwoordelijke netwerken zijn volgens hen het default-netwerk, het taak-netwerk en het karakter-netwerk. De cohesie in deze netwerken speelt een grote rol in de productie, beoordeling en uiting van creativiteit.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Het default-netwerk&lt;/strong&gt;, met als centraal punt in de hersenen de &lt;a href=&quot;https://www.neuroscientificallychallenged.com/blog//know-your-brain-cingulate-cortex&quot;&gt;linker posterior cingulate&lt;/a&gt;, is de staat van de hersenen als zij zich niet bezig houdt met een taak. Deze inactieve staat kenmerkt zich door te dagdromen, plotselinge opspelende herinneringen of verveling. Deze verschijnselen staan in lijn met de functie van de &lt;em&gt;posterior cingulate cortex&lt;/em&gt;, namelijk het oproepen van autobiografische herinneringen. Er is een positieve correlatie gevonden tussen creatieve prestaties en de hoeveelheid grijze massa in het default-netwerk (Kühn et al., 2013), wat impliceert dat creatieve gedachten zijn ontstaan in ieder geval deels te danken hebben aan dit netwerk.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Het default-netwerk&lt;/strong&gt;, met als centraal punt in de hersenen de &lt;a href=&quot;https://www.neuroscientificallychallenged.com/blog//know-your-brain-cingulate-cortex&quot;&gt;linker posterior cingulate&lt;/a&gt;, speelt op wanneer de hersenen zich niet bezig houdt met een taak. Deze inactieve staat kenmerkt zich door dagdromen, plotselinge opspelende herinneringen of verveling. Deze verschijnselen staan in lijn met de functie van de &lt;em&gt;posterior cingulate cortex&lt;/em&gt;; het oproepen van autobiografische herinneringen. Er is een positieve correlatie gevonden tussen creatieve prestaties en de hoeveelheid grijze massa in het default-netwerk (Kühn et al., 2013), wat impliceert dat creatieve gedachten haar ontstaan in ieder geval deels te danken hebben aan dit netwerk.&lt;/p&gt;
 
-&lt;p&gt;In de jaren 70 ontdekte (Ingvar, 1979) dat de frontale lobben hoge activiteit lieten zien in rust, wat betekent dat er in rust veel middelen naar planning, complexiteit, probleem-oplossing en bewustzijn gaan. Deze hersenactiviteit is voornamelijk gevraagd door haar bestuurder tijdens taken van concentratie, waarin men bijvoorbeeld kiest om muziek te gaan maken, te gaan schilderen of aan een opdracht te werken. Helaas is er juist minder activiteit in deze gebieden bij taken die concentratie eisen (Fornito et al., 2012), wat op zijn beurt weer inzichten biedt in het belang van rust nemen.&lt;/p&gt;
+&lt;p&gt;In de jaren 70 ontdekte Ingvar (1979) dat de frontale lobben hoge activiteit lieten zien in rust, wat betekent dat er in rust veel middelen naar planning, complexiteit, problemen analyseren/oplossen en bewustzijn gaan. Deze hersenactiviteit wordt doorgaans voornamelijk gevraagd en verwacht door haar bestuurder tijdens taken van concentratie, waarin iemand bijvoorbeeld kiest om muziek te gaan maken, te gaan schilderen of aan een opdracht te werken. Helaas is gevonden dat er bij taken die concentratie eisen juist minder activiteit in deze gebieden is(Fornito et al., 2012), wat het belang van rust en afstand nemen van je project of probleem weer eens goed benadrukt.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;center&gt; &quot;Lukt het niet? Ga even wat anders doen.&quot; &lt;/center&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;We herkennen allemaal momenten waar we vastlopen bij een probleem en aan de eettafel of in de Albert Heijn plots de oplossing ervoor vinden, of inzichten en ideeën die je vooral ‘s avonds in bed hebt vlak voordat je wilt gaan slapen. Dit zijn taken waarbij activatie van het default-netwerk opspeelt en de hersenen tijd krijgt om nieuwe inzichten the synthetiseren. Het fenomeen dat je voor het slapen gaan op inzichten en ideeën komt is doordat er in de aanloop naar (en tijdens) slaap het default-netwerk hoge activiteit laat zien (Tashjian et al., 2018). De relatie van het default-netwerk en slaap is ook aangetoond in deze studie. Slecht slapen wordt geassocieerd met een verzwakt default-netwerk.&lt;/p&gt;
+&lt;p&gt;We herkennen allemaal momenten waar we vastlopen bij een probleem en (bijvoorbeeld) aan de eettafel of in de Albert Heijn plots de oplossing ervoor vinden. Dit zijn taken waarbij activatie van het default-netwerk opspeelt en de hersenen tijd krijgt om nieuwe inzichten te synthetiseren. Voor je gaat slapen zul je je dit ook eens meegemaakt hebben; voor je gevoel heb je de beste ideeën. Het fenomeen dat je voor het slapen gaan op inzichten en ideeën komt, is doordat er in de aanloop naar (en tijdens) slaap het default-netwerk hoge activiteit laat zien (Tashjian et al., 2018). De relatie van het default-netwerk en slaap is ook aangetoond in deze studie; slecht slapen wordt geassocieerd met een verzwakt default-netwerk.&lt;/p&gt;
 
 &lt;p&gt;De eerdergenoemde studie door (Kühn et al., 2013) toonde ook aan dat de &lt;a href=&quot;https://sciencebeta.com/ventromedial-prefrontal-cortex/&quot;&gt;ventromediale prefrontale cortex&lt;/a&gt; (vmPFC) zowel een belangrijke rol speelt in het default-netwerk als gecorreleerd is met grijze massa en cognitieve flexibiliteit (zie &lt;em&gt;Fig 1&lt;/em&gt;). De vmPFC kent haar toepassing in de regulatie van de amygdala en beslissingen nemen in situaties van risico en angst. 
-Er wordt wel eens gezegd dat om een goede kunstenaar te zijn je wat moet hebben meegemaakt en emotionele bagage nodig hebt. Dit gezegde zou haar waarheid kunnen vinden in de de relatie tussen creativiteit en emotie: een actief default-netwerk is gelinkt aan  een hoge activiteit van de vmPFC en diens monitorende invloed op de amygdala neemt hoge waardes van stress en negatieve emotie waar.  &lt;br /&gt;&lt;br /&gt; &lt;img src=&quot;/assets/img/vmpfc.png&quot; alt=&quot;vmpfc&quot; /&gt;&lt;small&gt;&lt;center&gt;Fig 1. source: Kühn et al., 2013.&lt;/center&gt;&lt;/small&gt;&lt;/p&gt;
+Er wordt wel eens gezegd dat om een goede kunstenaar te zijn je wat moet hebben meegemaakt en emotionele bagage nodig hebt. Dit gezegde zou haar waarheid kunnen vinden in de relatie tussen creativiteit en emotie: een actief default-netwerk is gelinkt aan een hoge activiteit van de vmPFC en diens monitorende invloed op de amygdala neemt hoge waardes van stress en negatieve emotie waar.  &lt;br /&gt;&lt;br /&gt; &lt;img src=&quot;/assets/img/vmpfc.png&quot; alt=&quot;vmpfc&quot; /&gt;&lt;small&gt;&lt;center&gt;Fig 1. source: Kühn et al., 2013.&lt;/center&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;center&gt; Het taak-netwerk, het karakter-netwerk en de oorsprong van creatieve gedachten&lt;/center&gt;&lt;/strong&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Het taak-netwerk&lt;/strong&gt; resideert centraal in de het dorsolaterale gebied van de bekende &lt;a href=&quot;https://www.neuroscientificallychallenged.com/blog/2014/5/16/know-your-brain-prefrontal-cortex&quot;&gt;prefrontale cortex&lt;/a&gt;. Dit gebied staat bekend om zijn functie in vele menselijke functies zoals plannen, zelfbeeld, schaamte en tijdsbesef. Dit netwerk is verantwoordelijk voor emotieregulatie, planning en de afweging tussen keuzes. Het &lt;a href=&quot;https://en.wikipedia.org/wiki/Dorsolateral_prefrontal_cortex&quot;&gt;dorsolaterale gedeelte van de prefrontale cortex&lt;/a&gt; houdt zich vooral bezig met motivatie en aandacht. Het fixeert en beheert de nodige delen van de hersenen nodig voor een taak.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Het taak-netwerk&lt;/strong&gt; resideert centraal in het dorsolaterale gebied van de bekende &lt;a href=&quot;https://www.neuroscientificallychallenged.com/blog/2014/5/16/know-your-brain-prefrontal-cortex&quot;&gt;prefrontale cortex&lt;/a&gt;. Dit gebied staat bekend om zijn functie in vele menselijke functies zoals plannen, zelfbeeld, schaamte en tijdsbesef. Dit netwerk is verantwoordelijk voor emotieregulatie, planning en de afweging tussen keuzes. Het &lt;a href=&quot;https://en.wikipedia.org/wiki/Dorsolateral_prefrontal_cortex&quot;&gt;dorsolaterale gedeelte van de prefrontale cortex&lt;/a&gt; houdt zich vooral bezig met motivatie en aandacht. Het fixeert en beheert de nodige delen van de hersenen nodig voor een taak.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Het karakter-netwerk&lt;/strong&gt;, met als centraal punt de &lt;em&gt;left anterior &lt;a href=&quot;https://www.neuroscientificallychallenged.com/blog/2013/05/what-is-insula&quot;&gt;insula&lt;/a&gt;&lt;/em&gt;, beslist wat ons opvalt en geldt als een filter voor zintuigelijke input. Bij bijvoorbeeld faalangst kiest dit netwerk ervoor om energie toe te wijden aan de toekomst en wat daar mis kan gaan, in plaats van bijvoorbeeld het examen.&lt;/p&gt;
 
@@ -46,13 +46,14 @@ Er wordt wel eens gezegd dat om een goede kunstenaar te zijn je wat moet hebben 
 &lt;br /&gt;&lt;br /&gt;
 &lt;strong&gt;&lt;center&gt;ADHD en de verzwakte synergie tussen het taak- en default-netwerk&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Attention-Deficit/Hyperactivity Disorder&lt;/em&gt; (ADHD) is een populaire aandoening met kenmerkende symptomen in het gedrag, mentale gezondheid en cognitieve functionele problemen. De meest kwalijke symptomen zijn dwalende gedachten en onzekerheid. De studie naar de default- en taak netwerken leverde veel inzichten op voor het ontstaan van deze symptomen. Zo leidt volgens (Bozhilova et al., 2018) een deactivatie van het default-netwerk en een verslechterde interactie met het taak-netwerk tot excessieve uitingen van deze symptomen. Ook is reeds bekend dat de schakel tussen het default-netwerk en het taak-netwerk disfunctioneel is bij ADHD, waarbij de hersenen falen in adaptieve regulatie tussen cognitieve controle en de rust-staat (Fan et al., 2019). Dit vertaalt zich in een constante activatie van beide netwerken, wat zijn tol eist in zowel de kwaliteit van aandacht en de kwaliteit van  concentratie. Ongewild treden kenmerken van het default-netwerk op tijdens een concentratietaak en eveneens ontstaat in ruststaat een gevoel van cognitieve controle en logisch (over)analyseren.  Voorbeelden hiervan zijn een ‘nutteloos’ gevoel in ruststand of verveling - dit geeft activiteit van het taak-netwerk weer zoals planning en zelfbeeld - en precies als iemand een ADHD’er een verhaal vertelt beginnen dagdromen op te spelen. In een thesis van Tine Maas over ADHD en dagdromen vond zij dat volwassenen met ADHD significant meer dagdromen dan volwassenen zonder deze diagnose. Het defect is bevestigd door onderzoek naar de invloed van methylfenidaat op het default-netwerk , waarin is geconcludeerd dat deze disfunctionaliteit wordt verminderd door methylfenidaat (Santos et al., 2019).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Attention-Deficit/Hyperactivity Disorder&lt;/em&gt; (ADHD) is een populaire aandoening met kenmerkende symptomen in het gedrag, mentale gezondheid en cognitieve functionele problemen. De meest kwalijke symptomen zijn dwalende gedachten en onzekerheid. De studie naar de default- en taak netwerken leverde veel inzichten op voor het ontstaan van deze symptomen. Zo leidt volgens (Bozhilova et al., 2018) een deactivatie van het default-netwerk en een verslechterde interactie met het taak-netwerk tot excessieve uitingen van deze symptomen. Ook is reeds bekend dat de schakel tussen het default-netwerk en het taak-netwerk disfunctioneel is bij ADHD, waarbij de hersenen falen in adaptieve regulatie tussen cognitieve controle en de rust-staat (Fan et al., 2019). Dit vertaalt zich in een constante activatie van beide netwerken, wat zijn tol eist in zowel de kwaliteit van aandacht en de kwaliteit van  concentratie. Ongewild treden kenmerken van het default-netwerk op tijdens een concentratie-taak en eveneens ontstaat in ruststaat een gevoel van cognitieve controle en logisch (over)analyseren.  Voorbeelden hiervan zijn een ‘nutteloos’ gevoel in ruststand of verveling — dit geeft activiteit van het taak-netwerk weer zoals planning en zelfbeeld — en precies als iemand een ADHD’er een verhaal vertelt beginnen dagdromen op te spelen. In een thesis van Tine Maas over ADHD en dagdromen vond zij dat volwassenen met ADHD significant meer dagdromen dan volwassenen zonder deze diagnose. De defecte schakel vindt ook bevestiging door onderzoek naar de invloed van methylfenidaat (Ritalin) op het default-netwerk, waarin is geconcludeerd dat deze medicatie de disfunctionaliteit verhelpt (Santos et al., 2019).&lt;/p&gt;
 
-&lt;p&gt;Onzekerheid en de vatbaarheid voor mentale gezondheidsklachten heeft een sterk negatief effect op de kwaliteit van leven. Het is voor een gediagnostiseerd persoon met ADHD goed om in te zien waar de hersenen hen in de steek laten, en waar ze zelf invloed kunnen uitoefenen. Veel (intelligente!) studenten met ADHD  ontwikkelen een minderwaardige relatie met educatie en verdienen, zeker in adolescentie, inzicht te krijgen in hun situatie waarin een andere aanpak vereist is. &lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;&lt;center&gt;Tot slot&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Onzekerheid en de vatbaarheid voor mentale gezondheidsklachten heeft een sterk negatief effect op de kwaliteit van leven. Het is voor een gediagnosticeerd persoon met ADHD goed om in te zien waar de hersenen hen in de steek laten en waar ze zelf invloed kunnen uitoefenen. Veel (intelligente!) studenten met ADHD  ontwikkelen een minderwaardige relatie met educatie en verdienen, zeker in adolescentie, inzicht te krijgen in hun situatie waarin een andere aanpak vereist is. &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;De theorie van het default-netwerk heeft ook controversie opgewekt. Een studie van (Morcom and Fletcher, 2007) liet zien dat het energieverbruik in de deze staat van rust niet uniek is, en dus moeilijk als een aparte staat gezien kan worden. De hersenen vertonen nog steeds complex gedrag buiten ons begrip. De benoemde netwerken en hersengebieden werken niet alleen, en zijn altijd beïnvloed door veel meer factoren. De simplistische benadering is vereist om het begrip tot het volk te brengen, om zo de persoonlijke kwelling van de symptomen (bij bijv. ADHD)  meer te accepteren voor hoe ze zijn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;center&gt;Tot slot&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;De theorie van het default-netwerk heeft ook controversie opgewekt. Één studie liet bijvoorbeeld zien dat het energieverbruik van de hersenen in deze staat van rust niet uniek is en moeilijk als een aparte staat gezien kan worden (Morcom and Fletcher, 2007). Deze conclusie lijkt een probleem te hebben met de interpretatie van het onderzoek naar het default-netwerk. De hersenen vertonen zeer ingewikkeld gedrag ver buiten ons begrip en de benoemde netwerken en hersengebieden werken nooit alleen. De simplistische en gereduceerde benadering is vereist om voor zulke complexiteiten een neurobiologische basis te vinden. Een compleet begrip is er nog lang niet, maar het genoemde onderzoek biedt inzichten in de symptomen (bij bijvoorbeeld ADHD) en kan een innoverende werking hebben op psychotherapeutische technieken.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Referenties&lt;/strong&gt;&lt;/p&gt;
@@ -79,7 +80,7 @@ Er wordt wel eens gezegd dat om een goede kunstenaar te zijn je wat moet hebben 
 
 &lt;p&gt;Morcom, A. M., &amp;amp; Fletcher, P. C. (2007). &lt;em&gt;Does the brain have a baseline? Why we should be resisting a rest. NeuroImage, 37(4), 1073–1082.&lt;/em&gt; doi:10.1016/j.neuroimage.2006.09.013&lt;/p&gt;
 </summary>
-      <id>http://localhost:4001/2020/05/09/creativiteit/</id>
+      <id>http://localhost:4002/2020/05/09/default-netwerk/</id>
       <updated>2020-05-09T21:00:00+02:00</updated>
       <author>
         <name>Lennart Zegerius</name>
@@ -88,7 +89,7 @@ Er wordt wel eens gezegd dat om een goede kunstenaar te zijn je wat moet hebben 
   
     <entry>
       <title>Het coronavirus versus de sleur van het leven</title>
-      <link href="http://localhost:4001/2020/04/04/corona/" />
+      <link href="http://localhost:4002/2020/04/04/corona/" />
       <summary type="html">&lt;p&gt;&lt;em&gt;&lt;center&gt;&quot;Volgens mij had ik Freud al eens geciteerd die heeft gezegd dat psychotherapie het omzetten van neurotische ellende in reële ellende is. En die reële ellende is er nu genoeg.&quot;&lt;/center&gt;&lt;/em&gt; &lt;center&gt;H. Sigling, psychiater &lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;Voor wie doorgaans weinig dagen beleeft zonder besognes lijkt de coronacrisis stiekem een redding. Ondanks de maatschappelijke beroering die deze crisis met zich meebrengt, geloof ik dat voor velen hierdoor de druk van de ketel verdwijnt.&lt;/p&gt;
@@ -122,7 +123,7 @@ Naast de positieve kanten van het sociale isolement zijn er natuurlijk ook veel 
 &lt;em&gt;&lt;small&gt;tags: corona, quarantaine, crisis, covid-19, burnout, stress&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
 
 </summary>
-      <id>http://localhost:4001/2020/04/04/corona/</id>
+      <id>http://localhost:4002/2020/04/04/corona/</id>
       <updated>2020-04-04T21:00:00+02:00</updated>
       <author>
         <name>Lennart Zegerius</name>
@@ -131,7 +132,7 @@ Naast de positieve kanten van het sociale isolement zijn er natuurlijk ook veel 
   
     <entry>
       <title>Een atheïstische jaloezie op de voordelen van religie</title>
-      <link href="http://localhost:4001/2020/03/16/religie/" />
+      <link href="http://localhost:4002/2020/03/16/religie/" />
       <summary type="html">&lt;p&gt;Religie is voor velen ongeloofwaardig. De ongeloofwaardigheid van religie valt deels terug te koppelen op de opvoeding. Bij een kind staat de vorming van godsdienst gelijk aan de ontwikkeling van vele normen en waarden, met als fundering het gezin en directe omgeving zoals school en vrienden. Zo zijn meerdere normen en waarden van ouders niet per se juist, onderbouwd en geschikt voor opvoeding, maar dit laat ik in het midden. Voor jonge opgroeiende mensen zal in veel gevallen de normen en waarden direct worden overgenomen. Met alle respect durf ik te stellen dat (bijvoorbeeld) veel christenen opgegroeid in een Islamitisch gezin niet christen maar moslim geworden zouden zijn, gebaseerd op de vatbaarheid voor deze normen en waarden in de opvoeding. 
 Religie heeft ook een evolutionair voordeel, waarvoor ik graag verwijs naar het hoofdstuk &lt;em&gt;Het Evolutionele Voordeel van Religie&lt;/em&gt; uit het boek &lt;em&gt;Wij Zijn Ons Brein&lt;/em&gt; van Dick Swaab, &lt;a href=&quot;https://books.google.nl/books?id=NyEwAgAAQBAJ&amp;amp;pg=PT269&amp;amp;lpg=PT269&amp;amp;dq=dick+swaab+religie+evolutionair+voordeel&amp;amp;source=bl&amp;amp;ots=ViYyY0E-59&amp;amp;sig=ACfU3U1xlzZM62jqINCKccqamhqGsdERPA&amp;amp;hl=nl&amp;amp;sa=X&amp;amp;redir_esc=y#v=onepage&amp;amp;q=dick%20swaab%20religie%20evolutionair%20voordeel&amp;amp;f=false&quot;&gt;deels gratis te lezen.&lt;/a&gt;&lt;/p&gt;
 
@@ -205,7 +206,7 @@ Als je zelf niet gelooft in God, zie in dat de dankbaarheid gegenereerd door rel
   &lt;/ol&gt;
 &lt;/div&gt;
 </summary>
-      <id>http://localhost:4001/2020/03/16/religie/</id>
+      <id>http://localhost:4002/2020/03/16/religie/</id>
       <updated>2020-03-16T01:00:00+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
@@ -214,7 +215,7 @@ Als je zelf niet gelooft in God, zie in dat de dankbaarheid gegenereerd door rel
   
     <entry>
       <title>Leesgewoontes van Ongeconcentreerde Lezers</title>
-      <link href="http://localhost:4001/2020/02/25/lezen/" />
+      <link href="http://localhost:4002/2020/02/25/lezen/" />
       <summary type="html">&lt;p&gt;Het gemak om snel te lezen lijkt ons niet allemaal gegund. Zo ken je vast wel iemand die iedere week een boek uitleest, en vraag je je vervolgens af waar iemand de tijd vandaan haalt. Je zegt tegen jezelf dat je dit ook wil doen en bestelt een boek op bol.com die bij binnenkomst als decoratiestuk zal mogen gelden.&lt;/p&gt;
 
 &lt;p&gt;Leren lezen gaat gepaard met een mooie eigenschap van de mens door allen gekend als &lt;strong&gt;zelfverzekerdheid&lt;/strong&gt;. In de poging dit pedagogisch te analyseren ga ik ervanuit dat een kind leert lezen en problemen oplossen rond dezelfde leeftijd. Er speelt een rol van de omgeving in de ontwikkeling van zelfvertrouwen en zelfeffectiviteit bij kinderen met als variabel de vaardigheid om problemen op te lossen. De manier hoe je zelfvertrouwen ontwikkelt heeft directe invloed op je leesvaardigheid en, niet onbelangrijk, het &lt;em&gt;comfort&lt;/em&gt; wat je hebt tijdens het lezen. Waarom kost lezen je zoveel energie? Waarom vallen je ogen dicht na een aantal pagina’s? Waarom lees je zo langzaam? Waarom vind ik lezen zo saai? Ik zal in deze post je proberen uit te leggen waar dit vandaan komt.&lt;/p&gt;
@@ -278,7 +279,7 @@ Accepteer dat de details gegeven in het boek kunnen worden opgezocht als naslagw
   &lt;/ol&gt;
 &lt;/div&gt;
 </summary>
-      <id>http://localhost:4001/2020/02/25/lezen/</id>
+      <id>http://localhost:4002/2020/02/25/lezen/</id>
       <updated>2020-02-25T01:00:00+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
@@ -287,7 +288,7 @@ Accepteer dat de details gegeven in het boek kunnen worden opgezocht als naslagw
   
     <entry>
       <title>Waar Predictive Processing onverwachts The Law of Attraction ontmoet</title>
-      <link href="http://localhost:4001/2020/02/12/pp-law/" />
+      <link href="http://localhost:4002/2020/02/12/pp-law/" />
       <summary type="html">&lt;p&gt;&lt;em&gt;&lt;center&gt;&quot;We can never know &quot;the thing in itself&quot; that is, the actual causes in the world of the effects we experience&quot; -Immanuel Kant (1781)&lt;/center&gt;&lt;/em&gt;
 &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
@@ -365,7 +366,7 @@ Er zijn genoeg manieren hoe visualisatie je juist kan tegenhouden. Bij angst(sto
   &lt;/ol&gt;
 &lt;/div&gt;
 </summary>
-      <id>http://localhost:4001/2020/02/12/pp-law/</id>
+      <id>http://localhost:4002/2020/02/12/pp-law/</id>
       <updated>2020-02-12T12:11:51+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
@@ -374,7 +375,7 @@ Er zijn genoeg manieren hoe visualisatie je juist kan tegenhouden. Bij angst(sto
   
     <entry>
       <title>Over Metacognitie, Mindfulness en Leervaardigheid</title>
-      <link href="http://localhost:4001/2020/01/16/introduction/" />
+      <link href="http://localhost:4002/2020/01/16/introduction/" />
       <summary type="html">&lt;p&gt;&lt;strong&gt;Waar we vroeger naar Tibet keken als het land van rust en geesteszuivering&lt;/strong&gt;, zijn we er relatief kort geleden achter gekomen dat mindfulness wel degelijk een zeer significant therapeutisch effect heeft en zelfs de go-to methode van psychotherapie in Europa en Amerika is geworden &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.
 Mindfulness komt van de term &lt;em&gt;sati&lt;/em&gt;, voor boeddhisten één van de zeven factoren der verlichting. Tegen het einde van de twintigste eeuw werd de term &lt;em&gt;sati&lt;/em&gt; geïnterpreteerd als de spirituele reis naar &lt;em&gt;ongestoorde aandacht&lt;/em&gt; en &lt;em&gt;volledig bewustzijn van het hier en nu&lt;/em&gt; &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Met modernisering komt de vraag naar feitelijke juistheid, en zo werd de taak van wetenschappers om het effect hiervan te onderzoeken geboren. Sindsdien is één van de wetenschappelijke doorbraken het onderzoek dat mindfulness niet alleen (terugkerende) depressie terugdringt, maar ook &lt;em&gt;à ce moment-là&lt;/em&gt; depressieve symptomen kan verlichten, en nog veel meer (zie o.a: &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
 
@@ -457,7 +458,7 @@ do not interpret the situation as stressful.” &lt;sup id=&quot;fnref:4&quot;&g
   &lt;/ol&gt;
 &lt;/div&gt;
 </summary>
-      <id>http://localhost:4001/2020/01/16/introduction/</id>
+      <id>http://localhost:4002/2020/01/16/introduction/</id>
       <updated>2020-01-16T12:11:51+01:00</updated>
       <author>
         <name>Lennart Zegerius</name>
