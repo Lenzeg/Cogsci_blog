@@ -49,7 +49,7 @@ Onzekerheid en de vatbaarheid voor mentale gezondheidsklachten heeft een sterk n
 <br>
 **<center>Tot slot</center>**
 
-De theorie van het default-netwerk heeft ook controversie opgewekt. Een studie van (Morcom and Fletcher, 2007) liet zien dat het energieverbruik in de deze staat van rust niet uniek is en dus moeilijk als een aparte staat gezien kan worden. De hersenen vertonen nog steeds complex gedrag buiten ons begrip. De benoemde netwerken en hersengebieden werken niet alleen en zijn altijd beïnvloed door veel meer factoren. De simplistische benadering is vereist om het begrip tot het volk te brengen, om zo de persoonlijke kwelling van de symptomen (bij bijv. ADHD)  meer te accepteren voor hoe ze zijn. 
+De theorie van het default-netwerk heeft ook controversie opgewekt. Één studie liet zien dat het algehele energieverbruik in deze staat van rust niet uniek is en dus moeilijk als een aparte staat gezien kan worden (Morcom and Fletcher, 2007). De hersenen vertonen nog steeds complex gedrag buiten ons begrip. De benoemde netwerken en hersengebieden werken niet alleen en zijn altijd beïnvloed door veel meer factoren. De simplistische benadering is vereist om het begrip tot het volk te brengen, om zo de persoonlijke kwelling van de symptomen (bij bijv. ADHD)  meer te accepteren voor hoe ze zijn. 
 
 ---
 **Referenties**
