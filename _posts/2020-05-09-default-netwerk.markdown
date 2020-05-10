@@ -14,7 +14,7 @@ Tegenwoordig is bekend dat cannabis eerder een benadelende werking heeft op crea
 <br><br>
 **<center> Het default-netwerk en creativiteit </center>**
 
-Creatief zijn vindt volgensBeaty et al. (2018) zijn oorsprong in de samenwerking tussen enkele netwerken in de hersenen. De verantwoordelijke netwerken zijn volgens hen het default-netwerk, het taak-netwerk en het karakter-netwerk. De cohesie in deze netwerken speelt een grote rol in de productie, beoordeling en uiting van creativiteit. 
+Creatief zijn vindt volgens Beaty et al. (2018) zijn oorsprong in de samenwerking tussen enkele netwerken in de hersenen. De verantwoordelijke netwerken zijn volgens hen het default-netwerk, het taak-netwerk en het karakter-netwerk. De cohesie in deze netwerken speelt een grote rol in de productie, beoordeling en uiting van creativiteit. 
 
 **Het default-netwerk**, met als centraal punt in de hersenen de [linker posterior cingulate](https://www.neuroscientificallychallenged.com/blog//know-your-brain-cingulate-cortex), speelt op wanneer de hersenen zich niet bezig houdt met een taak. Deze inactieve staat kenmerkt zich door dagdromen, plotselinge opspelende herinneringen of verveling. Deze verschijnselen staan in lijn met de functie van de *posterior cingulate cortex*; het oproepen van autobiografische herinneringen. Er is een positieve correlatie gevonden tussen creatieve prestaties en de hoeveelheid grijze massa in het default-netwerk (Kühn et al., 2013), wat impliceert dat creatieve gedachten hun ontstaan in ieder geval deels te danken hebben aan dit netwerk. 
  
