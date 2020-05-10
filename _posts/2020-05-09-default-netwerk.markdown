@@ -47,6 +47,7 @@ Het enige wat bekend is over **hoe creatieve gedachten ontstaan** is dat het onb
 
 Onzekerheid en de vatbaarheid voor mentale gezondheidsklachten heeft een sterk negatief effect op de kwaliteit van leven. Het is voor een gediagnosticeerd persoon met ADHD goed om in te zien waar de hersenen hen in de steek laten en waar ze zelf invloed kunnen uitoefenen. Veel (intelligente!) studenten met ADHD  ontwikkelen een minderwaardige relatie met educatie en verdienen, zeker in adolescentie, inzicht te krijgen in hun situatie waarin een andere aanpak vereist is.   
 <br>
+
 **<center>Tot slot</center>**
 
 De theorie van het default-netwerk heeft ook controversie opgewekt. Één studie liet bijvoorbeeld zien dat het energieverbruik van de hersenen in deze staat van rust niet uniek is en moeilijk als een aparte staat gezien kan worden (Morcom and Fletcher, 2007). Deze conclusie lijkt een probleem te hebben met de interpretatie van het onderzoek naar het default-netwerk. De hersenen vertonen zeer ingewikkeld gedrag ver buiten ons begrip en de benoemde netwerken en hersengebieden werken nooit alleen. De simplistische en gereduceerde benadering is vereist om voor zulke complexiteiten een neurobiologische basis te vinden. Een compleet begrip is er nog lang niet, maar het genoemde onderzoek biedt inzichten in de symptomen (bij bijvoorbeeld ADHD) en heeft een innoverende kracht op psychotherapeutische technieken.
